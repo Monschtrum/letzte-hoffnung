@@ -10,8 +10,8 @@ if not API_TOKEN:
     print("❌ Fehler: Kein COC_TOKEN in GitHub Secrets gefunden!")
     exit(1)
 
-# Clash of Clans API Anforderung
-url = f"https://api.clashofclans.com/v1/clans/%23{CLAN_TAG}"
+# Clash of Clans API Anforderung über den RoyaleAPI Proxy (umgeht dynamische GitHub-IPs)
+url = f"https://cocproxy.royaleapi.dev/v1/clans/%23{CLAN_TAG}"
 req = urllib.request.Request(url)
 req.add_header("Authorization", f"Bearer {API_TOKEN}")
 req.add_header("Accept", "application/json")
