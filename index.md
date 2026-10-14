@@ -1,5 +1,5 @@
 <div style="text-align: center; margin-bottom: 25px;">
-  <img src="Gemini_Generated_Image_aevojbaevojbaevo.jpg" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 380px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
+  <img src="Gemini_Generated_Image_aevojbaevojbaevo.jpg" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 380px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" onerror="this.style.display='none'">
   <h1 style="margin-top: 15px;">⚔️ Clan "Letzte Hoffnung"</h1>
 </div>
 
@@ -40,14 +40,14 @@
 
 ---
 
-## 📈 Live Clan-Statistiken
+## 📈 Detaillierte Clan-Statistiken
 
 <div style="background: #222831; padding: 25px; border-radius: 10px; border-left: 4px solid #3498db; text-align: center; margin: 20px 0;">
-  <h3 style="margin-top: 0; color: #fff;">📈 Live-Kriegsdaten & Clan-Statistiken</h3>
+  <h3 style="margin-top: 0; color: #fff;">📈 Live-Kriegsdaten & Historie</h3>
   <p style="color: #aaa; margin-bottom: 20px;">
-    Sämtliche Kriege, CWL-Historie, Trophäenverläufe und Detaileinsichten zu allen Mitgliedern sind direkt bei Clash of Stats verfügbar.
+    Sämtliche Kriege, CWL-Historie, Trophäenverläufe und Detaileinsichten zu allen Mitgliedern findest du direkt auf Clash of Stats.
   </p>
-  <a href="https://www.clashofstats.com/clans/2LR89PLLL/summary" target="_blank" style="background-color: #3498db; color: #fff; padding: 12px 20px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+  <a href="https://www.clashofstats.com/de/clans/letzte-hoffnung-2LR89PLLL/summary" target="_blank" rel="noopener noreferrer" style="background-color: #3498db; color: #fff; padding: 12px 20px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
     📊 Clan-Profil auf Clash of Stats öffnen ↗
   </a>
 </div>
@@ -66,7 +66,7 @@
 Tritt unserem Discord-Server für Angriffsplanungen, Strategien und Neuigkeiten bei:
 
 <p align="center">
-  <a href="https://discord.gg/gEmbask" style="background-color: #5865F2; color: #fff; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block;">
+  <a href="https://discord.gg/gEmbask" target="_blank" rel="noopener noreferrer" style="background-color: #5865F2; color: #fff; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block;">
     💬 Dem Discord-Server beitreten
   </a>
 </p>
