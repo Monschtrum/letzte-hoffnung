@@ -2,15 +2,20 @@
 
 Willkommen auf der offiziellen Homepage unseres Clash of Clans Clans!
 
-[👉 CLAN DIREKT IM SPIEL ÖFFNEN](https://link.clashofclans.com/de?action=OpenClanProfile&tag=DEINCLANTAG)
+[👉 CLAN DIREKT IM SPIEL ÖFFNEN](https://link.clashofclans.com/de?action=OpenClanProfile&tag=V29CVGRL)
 
 ---
 
 ## 📌 Über uns
 * **Clan-Name:** Letzte Hoffnung
-* **Clan-Tag:** `#DEINCLANTAG`
+* **Clan-Tag:** `#V29CVGRL`
 * **Fokus:** Clankriege, CWL & Clanspiele
-* **Anforderungen:** Ab Rathaus 12, aktiv & hilfsbereit
+* **Anforderungen:** Aktiv & hilfsbereit, regelmäßige Teilnahme an Clankriegen
+
+---
+
+## 📊 Live Clan-Statistiken
+[📈 Detailliertes Clan-Profil auf Clash of Stats ansehen](https://www.clashofstats.com/clans/V29CVGRL/summary)
 
 ---
 
@@ -23,5 +28,5 @@ Willkommen auf der offiziellen Homepage unseres Clash of Clans Clans!
 ---
 
 ## 💬 Community
-Wir organisieren uns über Discord für Angriffsabsprachen und Strategien.  
+Wir organisieren uns für Angriffsabsprachen und Strategien über unseren Discord-Server.  
 [Hier klicken, um eurer Community beizutreten](https://discord.gg/)
