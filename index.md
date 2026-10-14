@@ -1,7 +1,10 @@
-# ⚔️ Clan "Letzte Hoffnung"
+<div style="text-align: center; margin-bottom: 25px;">
+  <img src="Gemini_Generated_Image_aevojbaevojbaevo.jpg" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 380px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);">
+  <h1 style="margin-top: 15px;">⚔️ Clan "Letzte Hoffnung"</h1>
+</div>
 
 <p align="center">
-  <a href="https://link.clashofclans.com/de?action=OpenClanProfile&tag=2LR89PLLL" style="background-color: #f39c12; color: #fff; padding: 12px 24px; text-decoration: none; font-weight: bold; border-radius: 8px; display: inline-block; box-shadow: 0 4px 10px rgba(0,0,0,0.5);">
+  <a href="https://link.clashofclans.com/de?action=OpenClanProfile&tag=2LR89PLLL" style="background-color: #f39c12; color: #fff; padding: 14px 28px; text-decoration: none; font-weight: bold; border-radius: 8px; display: inline-block; box-shadow: 0 4px 12px rgba(243,156,18,0.4); font-size: 16px;">
     🎮 CLAN DIREKT IM SPIEL ÖFFNEN
   </a>
 </p>
