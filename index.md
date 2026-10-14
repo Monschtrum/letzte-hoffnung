@@ -11,24 +11,24 @@
 
 ---
 
-## 📊 Clan-Übersicht & Stats
+## 📊 Live Clan-Übersicht & Stats
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
   <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #f39c12; text-align: center;">
     <span style="font-size: 12px; color: #aaaaaa;">CLAN-LEVEL</span><br>
-    <strong style="font-size: 18px; color: #ffffff;">Level 19</strong>
+    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_LEVEL-->Level 19<!--/STAT_LEVEL--></strong>
   </div>
   <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #e74c3c; text-align: center;">
-    <span style="font-size: 12px; color: #aaaaaa;">CLAN-TAG</span><br>
-    <strong style="font-size: 18px; color: #ffffff;">#2LR89PLLL</strong>
+    <span style="font-size: 12px; color: #aaaaaa;">MITGLIEDER</span><br>
+    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_MEMBERS-->49/50<!--/STAT_MEMBERS--></strong>
   </div>
   <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #3498db; text-align: center;">
-    <span style="font-size: 12px; color: #aaaaaa;">ANFORDERUNG</span><br>
-    <strong style="font-size: 18px; color: #ffffff;">Rathaus 17</strong>
+    <span style="font-size: 12px; color: #aaaaaa;">TROPHÄEN</span><br>
+    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_TROPHIES-->Live-Data<!--/STAT_TROPHIES--></strong>
   </div>
   <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #2ecc71; text-align: center;">
-    <span style="font-size: 12px; color: #aaaaaa;">FOKUS</span><br>
-    <strong style="font-size: 18px; color: #ffffff;">CW / CWL / CS</strong>
+    <span style="font-size: 12px; color: #aaaaaa;">CK-SIEGE</span><br>
+    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_WINS-->Live-Data<!--/STAT_WINS--></strong>
   </div>
 </div>
 
