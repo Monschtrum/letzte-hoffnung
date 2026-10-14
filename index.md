@@ -24,11 +24,11 @@
   </div>
   <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #3498db; text-align: center;">
     <span style="font-size: 12px; color: #aaaaaa;">TROPHÄEN</span><br>
-    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_TROPHIES-->Live-Data<!--/STAT_TROPHIES--></strong>
+    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_TROPHIES-->101,250 🏆<!--/STAT_TROPHIES--></strong>
   </div>
   <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #2ecc71; text-align: center;">
     <span style="font-size: 12px; color: #aaaaaa;">CK-SIEGE</span><br>
-    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_WINS-->Live-Data<!--/STAT_WINS--></strong>
+    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_WINS-->161 Siege<!--/STAT_WINS--></strong>
   </div>
 </div>
 
