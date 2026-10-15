@@ -1,3 +1,9 @@
+<style>
+  /* Blendet den doppelten automatischen GitHub-Header ganz oben aus */
+  header { display: none !important; }
+  .wrapper { max-width: 900px !important; margin: 0 auto !important; padding: 20px !important; }
+</style>
+
 <head>
   <meta property="og:title" content="⚔️ Clan Letzte Hoffnung | RH17 Recruiting" />
   <meta property="og:description" content="Level 19 Clan • RH17 • Strukturierte CW & CWL • Max-Spenden & Aktive Community" />
@@ -6,7 +12,7 @@
 </head>
 
 <div style="text-align: center; margin-bottom: 25px;">
-  <img src="Gemini_Generated_Image_aevojbaevojbaevo.jpg" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 280px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" onerror="this.style.display='none'">
+  <img src="Gemini_Generated_Image_aevojbaevojbaevo.jpg" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" onerror="this.style.display='none'">
   <h1 style="margin-top: 15px; color: #ffffff;">⚔️ Clan "Letzte Hoffnung"</h1>
   <p style="font-size: 16px; color: #f1c40f; font-weight: bold; margin-top: -5px;">
     Level 19 • RH 17 • Strukturierte Clankriege • Fester Zusammenhalt
@@ -133,3 +139,8 @@ Du möchtest dich vor dem Beitritt austauschen oder Fragen stellen? Tritt unsere
     ⚔️ Im Spiel anfragen
   </a>
 </p>
+
+<!-- Schlichter Fußbereich ganz unten -->
+<div style="text-align: center; margin-top: 50px; padding-top: 20px; color: #666666; font-size: 12px; border-top: 1px solid #222222;">
+  Clan "Letzte Hoffnung" (#2LR89PLLL) • Hosted on GitHub Pages
+</div>
