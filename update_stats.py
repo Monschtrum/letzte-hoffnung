@@ -23,11 +23,17 @@ except Exception as e:
     print(f"❌ API-Fehler: {e}")
     exit(1)
 
-# Daten extrahieren
-level = data.get("clanLevel", 19)
-members = f"{data.get('members', 0)}/50"
-trophies = data.get("clanPoints", 0)
-war_wins = data.get("warWins", 0)
+# Erwartete API-Felder prüfen, damit unvollständige Antworten keine Ersatzwerte veröffentlichen.
+required_fields = {"clanLevel", "members", "clanPoints", "warWins"}
+missing_fields = required_fields.difference(data)
+if missing_fields:
+    print(f"❌ API-Antwort unvollständig; fehlende Felder: {', '.join(sorted(missing_fields))}")
+    exit(1)
+
+level = data["clanLevel"]
+members = f"{data['members']}/50"
+trophies = data["clanPoints"]
+war_wins = data["warWins"]
 
 print(f"✅ Live-Daten empfangen: Level {level} | Mitglieder {members} | Trophäen {trophies} | Siege {war_wins}")
 

@@ -1,3 +1,9 @@
+---
+title: "⚔️ Clan Letzte Hoffnung | RH17 Recruiting"
+description: "Level 19 Clan • RH17 • Strukturierte CW & CWL • Max-Spenden & Aktive Community"
+image: /Gemini_Generated_Image_aevojbaevojbaevo.jpg
+---
+
 <style>
 #header_wrap {
   display: none !important;
@@ -6,13 +12,6 @@
   padding-top: 15px !important;
 }
 </style>
-
-<head>
-  <meta property="og:title" content="⚔️ Clan Letzte Hoffnung | RH17 Recruiting" />
-  <meta property="og:description" content="Level 19 Clan • RH17 • Strukturierte CW & CWL • Max-Spenden & Aktive Community" />
-  <meta property="og:image" content="https://monschtrum.github.io/letzte-hoffnung/Gemini_Generated_Image_aevojbaevojbaevo.jpg" />
-  <meta property="og:url" content="https://monschtrum.github.io/letzte-hoffnung/" />
-</head>
 
 <div style="text-align: center; margin-bottom: 25px;">
   <img src="Gemini_Generated_Image_aevojbaevojbaevo.jpg" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" onerror="this.style.display='none'">
@@ -78,7 +77,7 @@
   </div>
   <div style="background: #222831; padding: 18px; border-radius: 10px; flex: 1; min-width: 250px; border-top: 3px solid #2ecc71;">
     <h4 style="margin-top: 0; color: #2ecc71;">🏆 Top-Erfolge in CS & Clanstadt</h4>
-    <p style="color: #ccc; font-size: 14px; margin-bottom: 0;">Die Höchstbelohnungen bei den Clanspielen schalten wir mühelos frei. Am Raid-Wochenende verholen wir gemeinsam tausende Überfall-Medaillen.</p>
+    <p style="color: #ccc; font-size: 14px; margin-bottom: 0;">Die Höchstbelohnungen bei den Clanspielen schalten wir mühelos frei. Am Raid-Wochenende holen wir gemeinsam tausende Überfall-Medaillen.</p>
   </div>
 </div>
 
