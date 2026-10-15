@@ -17,6 +17,16 @@
   display: none !important;
 }
 
+.wrapper > section {
+  margin-top: 20px;
+  padding-top: 0;
+}
+
+.clan-page > .clan-hero {
+  margin-top: 0;
+  padding-top: 0;
+}
+
 a:focus-visible {
   outline: 3px solid var(--lh-gold);
   outline-offset: 4px;
