@@ -245,6 +245,10 @@ for member in members:
     hall_level = member.get("townHallLevel")
     if hall_level is not None:
         town_halls[str(hall_level)] = town_halls.get(str(hall_level), 0) + 1
+town_halls = [
+    {"level": int(hall_level), "count": count}
+    for hall_level, count in sorted(town_halls.items(), key=lambda item: int(item[0]))
+]
 
 if isinstance(seen_war_attacks, dict) and len(seen_war_attacks) > 20:
     seen_war_attacks = dict(list(seen_war_attacks.items())[-20:])

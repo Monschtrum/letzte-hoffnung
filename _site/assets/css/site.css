@@ -1,0 +1,649 @@
+:root {
+  color-scheme: dark;
+  --lh-panel: #242e39;
+  --lh-line: #465461;
+  --lh-ink: #f5f3ec;
+  --lh-muted: #c2cbd1;
+  --lh-gold: #f2bd50;
+  --lh-red: #e98572;
+  --lh-blue: #78bad5;
+  --lh-green: #75c6a0;
+  --lh-orange: #efa36b;
+  --lh-discord: #9aa9ff;
+}
+
+#header,
+#title {
+  display: none !important;
+}
+
+.wrapper > section {
+  margin-top: 20px;
+  padding-top: 0;
+}
+
+.clan-page > .clan-hero {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:focus-visible {
+  outline: 3px solid var(--lh-gold);
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+
+.clan-page {
+  color: var(--lh-ink);
+}
+
+.page-nav {
+  display: flex;
+  gap: 6px;
+  margin: 0 0 22px;
+  border-bottom: 1px solid var(--lh-line);
+}
+
+.page-nav__link {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 13px;
+  border-bottom: 2px solid transparent;
+  color: var(--lh-muted) !important;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.page-nav__link:hover,
+.page-nav__link--active {
+  border-bottom-color: var(--lh-gold);
+  color: var(--lh-ink) !important;
+}
+
+.clan-page h1,
+.clan-page h2,
+.clan-page h3,
+.clan-page p {
+  color: inherit;
+}
+
+.clan-page h1,
+.clan-page h2,
+.clan-page h3 {
+  line-height: 1.2;
+}
+
+.clan-hero__image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 2.35 / 1;
+  max-height: 390px;
+  object-fit: cover;
+  border: 1px solid var(--lh-line);
+  border-radius: 8px;
+  box-shadow: 0 12px 28px rgb(0 0 0 / 24%);
+}
+
+.clan-hero__content {
+  max-width: 800px;
+  padding: 26px 0 8px;
+}
+
+.eyebrow {
+  margin: 0 0 7px;
+  color: var(--lh-gold) !important;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.clan-hero h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+.clan-hero__summary {
+  margin: 10px 0 14px;
+  color: var(--lh-gold) !important;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.clan-hero__intro {
+  max-width: 720px;
+  margin: 0 0 18px;
+  color: var(--lh-muted) !important;
+  line-height: 1.65;
+}
+
+.button {
+  display: inline-flex;
+  min-height: 48px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 11px 18px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  color: #111820 !important;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.3;
+  text-align: center;
+  text-decoration: none !important;
+  transition: filter 140ms ease, transform 140ms ease;
+}
+
+.button:hover {
+  filter: brightness(1.08);
+  transform: translateY(-1px);
+}
+
+.button--primary {
+  background: var(--lh-gold);
+  box-shadow: 0 4px 12px rgb(242 189 80 / 20%);
+}
+
+.button--secondary {
+  border-color: var(--lh-blue);
+  background: transparent;
+  color: var(--lh-ink) !important;
+}
+
+.button--discord {
+  background: var(--lh-discord);
+}
+
+.content-section {
+  margin-top: 38px;
+}
+
+.section-heading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.section-heading h2,
+.content-section > h2,
+.history-callout h2,
+.join-section h2 {
+  margin: 0;
+  font-size: 25px;
+}
+
+.stats-updated {
+  margin: 0 0 3px;
+  color: var(--lh-muted) !important;
+  font-size: 12px;
+  text-align: right;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0;
+}
+
+.stat {
+  min-width: 0;
+  min-height: 104px;
+  padding: 16px;
+  border: 1px solid var(--lh-line);
+  border-left: 4px solid currentColor;
+  border-radius: 6px;
+  background: linear-gradient(145deg, #2c3945, #202933);
+  box-shadow: inset 0 1px rgb(255 255 255 / 3%);
+}
+
+.stat dt {
+  color: var(--lh-muted);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.stat dd {
+  margin: 9px 0 0;
+  color: currentColor;
+  font-size: 25px;
+  font-variant-numeric: tabular-nums;
+  font-weight: 800;
+  overflow-wrap: anywhere;
+}
+
+.stat--gold,
+.feature-card--gold,
+.leader--gold {
+  color: var(--lh-gold);
+}
+
+.stat--red,
+.feature-card--red {
+  color: var(--lh-red);
+}
+
+.stat--blue {
+  color: var(--lh-blue);
+}
+
+.stat--green,
+.feature-card--green {
+  color: var(--lh-green);
+}
+
+.clan-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 22px;
+  margin: 16px 0 0;
+  padding: 0;
+  color: var(--lh-muted);
+  list-style: none;
+}
+
+.clan-facts strong {
+  color: var(--lh-ink);
+}
+
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 15px;
+}
+
+.feature-card {
+  min-width: 0;
+  padding: 18px;
+  border: 1px solid var(--lh-line);
+  border-top: 3px solid currentColor;
+  border-radius: 6px;
+  background: var(--lh-panel);
+}
+
+.feature-card h3 {
+  margin: 0 0 10px;
+  color: currentColor !important;
+  font-size: 17px;
+}
+
+.feature-card p {
+  margin: 0;
+  color: var(--lh-muted) !important;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.requirements ul,
+.rules ol {
+  margin: 12px 0 0;
+  padding-left: 22px;
+  color: var(--lh-muted);
+  line-height: 1.7;
+}
+
+.requirements li + li,
+.rules li + li {
+  margin-top: 7px;
+}
+
+.requirements strong,
+.rules strong {
+  color: var(--lh-ink);
+}
+
+.leader-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.leader {
+  display: grid;
+  gap: 7px;
+  padding: 15px;
+  border: 1px solid var(--lh-line);
+  border-left: 4px solid currentColor;
+  border-radius: 6px;
+  background: var(--lh-panel);
+}
+
+.leader span {
+  color: var(--lh-muted);
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.leader strong {
+  color: var(--lh-ink);
+  font-size: 16px;
+}
+
+.leader--orange {
+  color: var(--lh-orange);
+}
+
+.history-callout,
+.join-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  margin-top: 38px;
+  padding: 22px;
+  border: 1px solid var(--lh-line);
+  border-left: 4px solid var(--lh-blue);
+  border-radius: 6px;
+  background: var(--lh-panel);
+}
+
+.history-callout p,
+.join-section p {
+  margin: 9px 0 0;
+  color: var(--lh-muted) !important;
+  line-height: 1.55;
+}
+
+.join-section {
+  border-left-color: var(--lh-gold);
+}
+
+.join-actions {
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.site-footer {
+  margin-top: 35px;
+  padding: 16px 0 4px;
+  border-top: 1px solid var(--lh-line);
+  color: var(--lh-muted);
+  font-size: 12px;
+  text-align: center;
+}
+
+.stats-intro {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 25px 0 22px;
+  border-bottom: 1px solid var(--lh-line);
+}
+
+.stats-intro h1 {
+  margin: 0;
+  font-size: 32px;
+}
+
+.stats-intro p:last-child {
+  max-width: 660px;
+  margin: 10px 0 0;
+  color: var(--lh-muted) !important;
+  line-height: 1.6;
+}
+
+.stats-section {
+  margin-top: 34px;
+}
+
+.stats-section h2 {
+  margin: 0;
+  font-size: 23px;
+}
+
+.stats-subheading {
+  margin: 20px 0 10px;
+  color: var(--lh-muted) !important;
+  font-size: 15px;
+}
+
+.stats-section__intro {
+  margin: 7px 0 14px;
+  color: var(--lh-muted) !important;
+  font-size: 14px;
+}
+
+.honoree-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 15px;
+}
+
+.honoree {
+  min-height: 148px;
+  padding: 18px;
+  border: 1px solid var(--lh-line);
+  border-top: 3px solid var(--lh-gold);
+  border-radius: 6px;
+  background: var(--lh-panel);
+}
+
+.honoree--green {
+  border-top-color: var(--lh-green);
+}
+
+.honoree span,
+.honoree small {
+  display: block;
+  color: var(--lh-muted);
+  font-size: 12px;
+}
+
+.honoree strong {
+  display: block;
+  margin: 14px 0 5px;
+  color: var(--lh-gold);
+  font-size: 24px;
+  overflow-wrap: anywhere;
+}
+
+.honoree--green strong {
+  color: var(--lh-green);
+}
+
+.data-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--lh-line);
+  border-radius: 6px;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  color: var(--lh-ink);
+  font-size: 14px;
+}
+
+.data-table th,
+.data-table td {
+  padding: 11px 13px;
+  border-bottom: 1px solid var(--lh-line);
+  text-align: left;
+  white-space: nowrap;
+}
+
+.data-table th {
+  background: var(--lh-panel);
+  color: var(--lh-muted);
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.data-table tbody tr:nth-child(even) {
+  background: rgb(255 255 255 / 3%);
+}
+
+.data-table tbody tr:hover {
+  background: rgb(120 186 213 / 9%);
+}
+
+.data-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.data-table td:last-child,
+.data-table th:last-child {
+  text-align: right;
+}
+
+.data-table__rank {
+  color: var(--lh-gold);
+  font-weight: 800;
+}
+
+.data-table__numeric {
+  color: var(--lh-ink);
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  text-align: right !important;
+}
+
+.match-result {
+  display: inline-block;
+  min-width: 86px;
+  padding: 5px 8px;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 800;
+  text-align: center;
+}
+
+.match-result--win {
+  color: var(--lh-green);
+}
+
+.match-result--loss {
+  color: var(--lh-red);
+}
+
+.match-result--tie {
+  color: var(--lh-blue);
+}
+
+.distribution {
+  display: grid;
+  gap: 8px;
+  max-width: 680px;
+  margin-top: 16px;
+}
+
+.distribution-row {
+  display: grid;
+  grid-template-columns: 72px minmax(50px, 1fr) 38px;
+  align-items: center;
+  gap: 12px;
+  color: var(--lh-muted);
+  font-size: 13px;
+}
+
+.distribution-row__track {
+  height: 9px;
+  overflow: hidden;
+  border-radius: 2px;
+  background: #35414b;
+}
+
+.distribution-row__fill {
+  display: block;
+  height: 100%;
+  min-width: 2px;
+  background: var(--lh-blue);
+}
+
+.stats-empty {
+  padding: 14px 0;
+  color: var(--lh-muted) !important;
+}
+
+.stats-updated--page {
+  margin: 18px 0 0;
+  color: var(--lh-muted) !important;
+  font-size: 12px;
+}
+
+@media (max-width: 720px) {
+  .stats-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .feature-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .section-heading,
+  .history-callout,
+  .join-section,
+  .stats-intro {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .stats-updated {
+    text-align: left;
+  }
+}
+
+@media (max-width: 480px) {
+  .clan-hero__image {
+    aspect-ratio: 1.8 / 1;
+  }
+
+  .clan-hero h1 {
+    font-size: 29px;
+  }
+
+  .clan-hero__summary {
+    line-height: 1.6;
+  }
+
+  .stat {
+    min-height: 88px;
+    padding: 12px;
+  }
+
+  .stat dd {
+    font-size: 22px;
+  }
+
+  .leader-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .honoree-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stats-intro h1 {
+    font-size: 28px;
+  }
+
+  .join-actions,
+  .join-actions .button {
+    width: 100%;
+  }
+
+  .history-callout,
+  .join-section {
+    padding: 17px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .button {
+    transition: none;
+  }
+}
