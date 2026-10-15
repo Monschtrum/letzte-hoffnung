@@ -1,11 +1,9 @@
 <style>
-header {
+#header_wrap {
   display: none !important;
 }
-.wrapper {
-  max-width: 900px !important;
-  margin: 0 auto !important;
-  padding: 20px !important;
+#main_content_wrap {
+  padding-top: 15px !important;
 }
 </style>
 
