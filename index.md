@@ -6,7 +6,7 @@
 </head>
 
 <div style="text-align: center; margin-bottom: 25px;">
-  <img src="Gemini_Generated_Image_aevojbaevojbaevo.jpg" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 380px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" onerror="this.style.display='none'">
+  <img src="Gemini_Generated_Image_aevojbaevojbaevo.jpg" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 260px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" onerror="this.style.display='none'">
   <h1 style="margin-top: 15px;">⚔️ Clan "Letzte Hoffnung"</h1>
 </div>
 
@@ -31,11 +31,11 @@
   </div>
   <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #3498db; text-align: center;">
     <span style="font-size: 12px; color: #aaaaaa;">TROPHÄEN</span><br>
-    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_TROPHIES-->101,250 🏆<!--/STAT_TROPHIES--></strong>
+    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_TROPHIES-->Live-Data<!--/STAT_TROPHIES--></strong>
   </div>
   <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #2ecc71; text-align: center;">
     <span style="font-size: 12px; color: #aaaaaa;">CK-SIEGE</span><br>
-    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_WINS-->161 Siege<!--/STAT_WINS--></strong>
+    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_WINS-->Live-Data<!--/STAT_WINS--></strong>
   </div>
 </div>
 
@@ -44,6 +44,21 @@
 * 🏰 **Clan-Familie:** Letzte Bastion • Letzte Station
 * ⚡ **Regel:** Keine Rusher
 * 📅 **Gegründet:** Est. 2022
+
+---
+
+## 👑 Führungsteam
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
+  <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 200px; border-left: 4px solid #f1c40f;">
+    <span style="font-size: 12px; color: #aaaaaa;">ANFÜHRER</span><br>
+    <strong style="font-size: 16px; color: #ffffff;">👑 MuSKELBaNaNe</strong>
+  </div>
+  <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 200px; border-left: 4px solid #e67e22;">
+    <span style="font-size: 12px; color: #aaaaaa;">VIZE-ANFÜHRER</span><br>
+    <strong style="font-size: 16px; color: #ffffff;">⚔️ Th3rion</strong>
+  </div>
+</div>
 
 ---
 
