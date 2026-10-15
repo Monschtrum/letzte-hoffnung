@@ -1,0 +1,24 @@
+{
+  "updatedAt": "",
+  "clan": {},
+  "members": [],
+  "townHalls": {},
+  "currentWar": null,
+  "warlog": [],
+  "cwl": {
+    "season": "",
+    "wars": [],
+    "history": []
+  },
+  "capitalRaid": null,
+  "memberDonationTotals": {},
+  "seenWarAttacks": {},
+  "monthly": {
+    "current": {
+      "month": "",
+      "warStars": {},
+      "donations": {}
+    },
+    "history": []
+  }
+}

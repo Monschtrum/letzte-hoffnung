@@ -37,6 +37,32 @@ a:focus-visible {
   color: var(--lh-ink);
 }
 
+.page-nav {
+  display: flex;
+  gap: 6px;
+  margin: 0 0 22px;
+  border-bottom: 1px solid var(--lh-line);
+}
+
+.page-nav__link {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 13px;
+  border-bottom: 2px solid transparent;
+  color: var(--lh-muted) !important;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.page-nav__link:hover,
+.page-nav__link--active {
+  border-bottom-color: var(--lh-gold);
+  color: var(--lh-ink) !important;
+}
+
 .clan-page h1,
 .clan-page h2,
 .clan-page h3,
@@ -345,6 +371,161 @@ a:focus-visible {
   text-align: center;
 }
 
+.stats-intro {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 25px 0 22px;
+  border-bottom: 1px solid var(--lh-line);
+}
+
+.stats-intro h1 {
+  margin: 0;
+  font-size: 32px;
+}
+
+.stats-intro p:last-child {
+  max-width: 660px;
+  margin: 10px 0 0;
+  color: var(--lh-muted) !important;
+  line-height: 1.6;
+}
+
+.stats-section {
+  margin-top: 34px;
+}
+
+.stats-section h2 {
+  margin: 0;
+  font-size: 23px;
+}
+
+.stats-subheading {
+  margin: 20px 0 10px;
+  color: var(--lh-muted) !important;
+  font-size: 15px;
+}
+
+.stats-section__intro {
+  margin: 7px 0 14px;
+  color: var(--lh-muted) !important;
+  font-size: 14px;
+}
+
+.honoree-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 15px;
+}
+
+.honoree {
+  min-height: 148px;
+  padding: 18px;
+  border: 1px solid var(--lh-line);
+  border-top: 3px solid var(--lh-gold);
+  border-radius: 6px;
+  background: var(--lh-panel);
+}
+
+.honoree--green {
+  border-top-color: var(--lh-green);
+}
+
+.honoree span,
+.honoree small {
+  display: block;
+  color: var(--lh-muted);
+  font-size: 12px;
+}
+
+.honoree strong {
+  display: block;
+  margin: 14px 0 5px;
+  color: var(--lh-ink);
+  font-size: 22px;
+  overflow-wrap: anywhere;
+}
+
+.data-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--lh-line);
+  border-radius: 6px;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  color: var(--lh-ink);
+  font-size: 14px;
+}
+
+.data-table th,
+.data-table td {
+  padding: 11px 13px;
+  border-bottom: 1px solid var(--lh-line);
+  text-align: left;
+  white-space: nowrap;
+}
+
+.data-table th {
+  background: var(--lh-panel);
+  color: var(--lh-muted);
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+.data-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.data-table td:last-child,
+.data-table th:last-child {
+  text-align: right;
+}
+
+.distribution {
+  display: grid;
+  gap: 8px;
+  max-width: 680px;
+  margin-top: 16px;
+}
+
+.distribution-row {
+  display: grid;
+  grid-template-columns: 72px minmax(50px, 1fr) 38px;
+  align-items: center;
+  gap: 12px;
+  color: var(--lh-muted);
+  font-size: 13px;
+}
+
+.distribution-row__track {
+  height: 9px;
+  overflow: hidden;
+  border-radius: 2px;
+  background: #35414b;
+}
+
+.distribution-row__fill {
+  display: block;
+  height: 100%;
+  min-width: 2px;
+  background: var(--lh-blue);
+}
+
+.stats-empty {
+  padding: 14px 0;
+  color: var(--lh-muted) !important;
+}
+
+.stats-updated--page {
+  margin: 18px 0 0;
+  color: var(--lh-muted) !important;
+  font-size: 12px;
+}
+
 @media (max-width: 720px) {
   .stats-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -356,7 +537,8 @@ a:focus-visible {
 
   .section-heading,
   .history-callout,
-  .join-section {
+  .join-section,
+  .stats-intro {
     align-items: flex-start;
     flex-direction: column;
   }
@@ -390,6 +572,14 @@ a:focus-visible {
 
   .leader-grid {
     grid-template-columns: 1fr;
+  }
+
+  .honoree-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stats-intro h1 {
+    font-size: 28px;
   }
 
   .join-actions,

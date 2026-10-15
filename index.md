@@ -5,6 +5,11 @@ image: /banner.webp
 ---
 
 <main class="clan-page">
+  <nav class="page-nav" aria-label="Hauptnavigation">
+    <a class="page-nav__link page-nav__link--active" href="{{ '/' | relative_url }}" aria-current="page">Startseite</a>
+    <a class="page-nav__link" href="{{ '/statistiken/' | relative_url }}">Statistiken <span aria-hidden="true">↗</span></a>
+  </nav>
+
   <section class="clan-hero" aria-labelledby="clan-name">
     <img class="clan-hero__image" src="{{ '/banner.webp' | relative_url }}" alt="Banner des Clash-of-Clans-Clans Letzte Hoffnung" fetchpriority="high">
     <div class="clan-hero__content">
