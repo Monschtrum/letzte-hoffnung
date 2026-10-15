@@ -4,142 +4,109 @@ description: "Level 19 Clan • RH17 • Strukturierte CW & CWL • Max-Spenden 
 image: /banner.webp
 ---
 
-<style>
-#header,
-#title {
-  display: none !important;
-}
-</style>
+<main class="clan-page">
+  <section class="clan-hero" aria-labelledby="clan-name">
+    <img class="clan-hero__image" src="{{ '/banner.webp' | relative_url }}" alt="Banner des Clash-of-Clans-Clans Letzte Hoffnung" fetchpriority="high">
+    <div class="clan-hero__content">
+      <p class="eyebrow">Clash of Clans <span aria-hidden="true">/</span> Clan #2LR89PLLL</p>
+      <h1 id="clan-name">Letzte Hoffnung</h1>
+      <p class="clan-hero__summary">Level 19 <span aria-hidden="true">·</span> RH 17 <span aria-hidden="true">·</span> Strukturierte Clankriege <span aria-hidden="true">·</span> Fester Zusammenhalt</p>
+      <p class="clan-hero__intro">Ein aktiver, zielstrebiger Clan mit ehrgeizigen Kriegen und einer entspannten, hilfsbereiten Gemeinschaft. Für erfahrene Taktiker und ehrgeizige Wiedereinsteiger, die ein strukturiertes Umfeld ohne Chaos suchen.</p>
+      <a class="button button--primary" href="https://link.clashofclans.com/de?action=OpenClanProfile&amp;tag=2LR89PLLL">🎮 Clan im Spiel öffnen &amp; bewerben</a>
+    </div>
+  </section>
 
-<div style="text-align: center; margin-bottom: 25px;">
-  <img src="banner.webp" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" onerror="this.style.display='none'">
-  <h1 style="margin-top: 15px; color: #ffffff;">⚔️ Clan "Letzte Hoffnung"</h1>
-  <p style="font-size: 16px; color: #f1c40f; font-weight: bold; margin-top: -5px;">
-    Level 19 • RH 17 • Strukturierte Clankriege • Fester Zusammenhalt
-  </p>
-</div>
+  <section class="content-section" aria-labelledby="stats-heading">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">Auf einen Blick</p>
+        <h2 id="stats-heading">Clan-Statistiken</h2>
+      </div>
+      <p class="stats-updated">Zuletzt erfolgreich aktualisiert: <span><!--STAT_UPDATED-->Noch kein erfolgreicher Abruf<!--/STAT_UPDATED--></span></p>
+    </div>
+    <dl class="stats-grid">
+      <div class="stat stat--gold"><dt>Clan-Level</dt><dd><!--STAT_LEVEL-->—<!--/STAT_LEVEL--></dd></div>
+      <div class="stat stat--red"><dt>Mitglieder</dt><dd><!--STAT_MEMBERS-->—<!--/STAT_MEMBERS--></dd></div>
+      <div class="stat stat--blue"><dt>Trophäen</dt><dd><!--STAT_TROPHIES-->—<!--/STAT_TROPHIES--></dd></div>
+      <div class="stat stat--green"><dt>CK-Siege</dt><dd><!--STAT_WINS-->—<!--/STAT_WINS--></dd></div>
+    </dl>
+    <ul class="clan-facts" aria-label="Clan-Fakten">
+      <li><strong>Clan-Familie:</strong> Letzte Bastion · Letzte Station</li>
+      <li><strong>Philosophie:</strong> Qualität vor Quantität</li>
+      <li><strong>Erfahrene Clanführung:</strong> seit 2022</li>
+    </ul>
+  </section>
 
-<div style="background: #1e2530; padding: 20px; border-radius: 10px; border-left: 4px solid #f39c12; margin-bottom: 25px;">
-  <h3 style="margin-top: 0; color: #fff;">🔥 Du suchst ein neues Zuhause in Clash of Clans?</h3>
-  <p style="color: #dddddd; line-height: 1.6; margin-bottom: 15px;">
-    Willkommen bei <strong>Letzte Hoffnung</strong>! Wir sind ein gewachsener, aktiver und zielstrebiger Level-19-Clan. Bei uns trifft ehrgeiziger Siegeswille in Clankriegen und der CWL auf eine entspannte, hilfsbereite Gemeinschaft. Egal ob erfahrener Taktiker oder ehrgeiziger Wiedereinsteiger – wenn du ein strukturiertes Umfeld ohne Chaos suchst, bist du bei uns genau richtig!
-  </p>
-  <p align="center" style="margin-bottom: 0;">
-    <a href="https://link.clashofclans.com/de?action=OpenClanProfile&tag=2LR89PLLL" style="background-color: #f39c12; color: #fff; padding: 14px 28px; text-decoration: none; font-weight: bold; border-radius: 8px; display: inline-block; box-shadow: 0 4px 12px rgba(243,156,18,0.4); font-size: 16px;">
-      🎮 CLAN DIREKT IM SPIEL ÖFFNEN & BEWERBEN
-    </a>
-  </p>
-</div>
+  <section class="content-section" aria-labelledby="benefits-heading">
+    <p class="eyebrow">Gemeinsam stärker</p>
+    <h2 id="benefits-heading">Was wir dir bieten</h2>
+    <div class="feature-grid">
+      <article class="feature-card feature-card--gold">
+        <h3>🚀 Clan-Vorteile &amp; Max-Spenden</h3>
+        <p>Profitiere von allen Level-19-Boni, raschen Truppenspenden rund um die Uhr und prall gefüllten Clanburgen für Kriege und Raids.</p>
+      </article>
+      <article class="feature-card feature-card--red">
+        <h3>⚔️ Kriege mit Verstand &amp; Struktur</h3>
+        <p>Gezielte Absprachen in Clankriegen und der CWL. Klare Zielverteilungen auf Discord helfen uns, das Maximum an Sternen herauszuholen.</p>
+      </article>
+      <article class="feature-card feature-card--green">
+        <h3>🏆 Top-Erfolge in CS &amp; Clanstadt</h3>
+        <p>Bei den Clanspielen holen wir gemeinsam die Höchstbelohnungen. Am Raid-Wochenende sammeln wir tausende Überfall-Medaillen.</p>
+      </article>
+    </div>
+  </section>
 
----
+  <section class="content-section requirements" aria-labelledby="requirements-heading">
+    <p class="eyebrow">Passt du zu uns?</p>
+    <h2 id="requirements-heading">Was du mitbringen solltest</h2>
+    <ul>
+      <li><strong>Rathaus-Level:</strong> RH 17, ausgebautes Dorf und keine gerushten Rathaushöhen.</li>
+      <li><strong>Kriegs-Disziplin:</strong> Wer auf <em>Grün</em> steht, nutzt im Clankrieg und in der CWL verlässlich beide Angriffe.</li>
+      <li><strong>Teamgeist &amp; Aktivität:</strong> Teilnahme an Clanspielen (mindestens 1.000 Punkte) und am Raid-Wochenende der Clanstadt.</li>
+      <li><strong>Kommunikation:</strong> Freundlicher Umgang im Chat und Bereitschaft, Discord für die Kriegsorganisation zu nutzen.</li>
+    </ul>
+  </section>
 
-## 📊 Live Clan-Übersicht & Stats
+  <section class="content-section leadership" aria-labelledby="leadership-heading">
+    <p class="eyebrow">Deine Ansprechpartner</p>
+    <h2 id="leadership-heading">Führungsteam</h2>
+    <div class="leader-grid">
+      <div class="leader leader--gold"><span>Anführer</span><strong>👑 MuSKELBaNaNe</strong></div>
+      <div class="leader leader--orange"><span>Vize-Anführer</span><strong>⚔️ Th3rion</strong></div>
+    </div>
+  </section>
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
-  <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #f39c12; text-align: center;">
-    <span style="font-size: 12px; color: #aaaaaa;">CLAN-LEVEL</span><br>
-    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_LEVEL-->Level 19<!--/STAT_LEVEL--></strong>
-  </div>
-  <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #e74c3c; text-align: center;">
-    <span style="font-size: 12px; color: #aaaaaa;">MITGLIEDER</span><br>
-    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_MEMBERS-->49/50<!--/STAT_MEMBERS--></strong>
-  </div>
-  <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #3498db; text-align: center;">
-    <span style="font-size: 12px; color: #aaaaaa;">TROPHÄEN</span><br>
-    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_TROPHIES-->Live-Data<!--/STAT_TROPHIES--></strong>
-  </div>
-  <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 140px; border-left: 4px solid #2ecc71; text-align: center;">
-    <span style="font-size: 12px; color: #aaaaaa;">CK-SIEGE</span><br>
-    <strong style="font-size: 18px; color: #ffffff;"><!--STAT_WINS-->Live-Data<!--/STAT_WINS--></strong>
-  </div>
-</div>
+  <section class="history-callout" aria-labelledby="history-heading">
+    <div>
+      <p class="eyebrow">Ein Blick auf unsere Bilanz</p>
+      <h2 id="history-heading">Kriege, Trophäen und Aufstellungen</h2>
+      <p>Weitere Clan-Statistiken und Verläufe findest du bei Clash of Stats.</p>
+    </div>
+    <a class="button button--secondary" href="https://www.clashofstats.com/clans/2LR89PLLL/summary" target="_blank" rel="noopener noreferrer">Clan-Profil öffnen <span aria-hidden="true">↗</span></a>
+  </section>
 
-<br>
+  <section class="content-section rules" aria-labelledby="rules-heading">
+    <p class="eyebrow">Fairness und Verlässlichkeit</p>
+    <h2 id="rules-heading">Unsere Clan-Regeln</h2>
+    <ol>
+      <li><strong>Clankrieg &amp; CWL:</strong> Wer auf „Grün“ geschaltet ist, macht beide Angriffe. Absprachen erfolgen strukturiert.</li>
+      <li><strong>Clanspiele &amp; Clanstadt:</strong> Aktive Teilnahme, damit wir gemeinsam alle Prämien holen.</li>
+      <li><strong>Kein Rushing:</strong> Wir legen Wert auf gepflegte Dörfer und Helden.</li>
+      <li><strong>Spendenkultur:</strong> Angemessenes Geben und Nehmen; genaue Anfragen werden zügig bedient.</li>
+    </ol>
+  </section>
 
-* 🏰 **Clan-Familie:** Letzte Bastion • Letzte Station
-* ⚡ **Philosophie:** Qualität vor Quantität (Keine Rusher)
-* 📅 **Tradition:** Erfahrene Clanführung (Est. 2022)
+  <section class="join-section" aria-labelledby="join-heading">
+    <div>
+      <p class="eyebrow">Der nächste Schritt</p>
+      <h2 id="join-heading">Werde Teil der Familie</h2>
+      <p>Fragen vorab? Schreib uns auf Discord oder schick direkt eine Anfrage im Spiel.</p>
+    </div>
+    <div class="join-actions">
+      <a class="button button--discord" href="https://discord.gg/gEmbask" target="_blank" rel="noopener noreferrer">💬 Discord beitreten</a>
+      <a class="button button--primary" href="https://link.clashofclans.com/de?action=OpenClanProfile&amp;tag=2LR89PLLL">⚔️ Im Spiel anfragen</a>
+    </div>
+  </section>
 
----
-
-## ✨ Was wir dir bieten
-
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
-  <div style="background: #222831; padding: 18px; border-radius: 10px; flex: 1; min-width: 250px; border-top: 3px solid #f1c40f;">
-    <h4 style="margin-top: 0; color: #f1c40f;">🚀 Clan-Vorteile & Max-Spenden</h4>
-    <p style="color: #ccc; font-size: 14px; margin-bottom: 0;">Profitiere von allen Level-19-Boni, raschen Truppenspenden rund um die Uhr und prall gefüllten Clanburgen für deine Kriege und Raids.</p>
-  </div>
-  <div style="background: #222831; padding: 18px; border-radius: 10px; flex: 1; min-width: 250px; border-top: 3px solid #e74c3c;">
-    <h4 style="margin-top: 0; color: #e74c3c;">⚔️ Kriege mit Verstand & Struktur</h4>
-    <p style="color: #ccc; font-size: 14px; margin-bottom: 0;">Gezielte Absprachen in Clankriegen und der CWL. Wir nutzen klare Zielverteilungen auf Discord, um das Maximum an Sternen herauszuholen.</p>
-  </div>
-  <div style="background: #222831; padding: 18px; border-radius: 10px; flex: 1; min-width: 250px; border-top: 3px solid #2ecc71;">
-    <h4 style="margin-top: 0; color: #2ecc71;">🏆 Top-Erfolge in CS & Clanstadt</h4>
-    <p style="color: #ccc; font-size: 14px; margin-bottom: 0;">Die Höchstbelohnungen bei den Clanspielen schalten wir mühelos frei. Am Raid-Wochenende holen wir gemeinsam tausende Überfall-Medaillen.</p>
-  </div>
-</div>
-
----
-
-## 🎯 Was du mitbringen solltest
-
-* 🏰 **Rathaus-Level:** **RH 17** (ausgebautes Dorf, keine gerushten Rathaushöhen)
-* ⚔️ **Kriegs-Disziplin:** Wer auf *Grün* steht, nutzt im Clankrieg und in der CWL verlässlich beide Angriffe.
-* 🤝 **Teamgeist & Aktivität:** Beteiligung an Clanspielen (mind. 1.000 Punkte) und am Raid-Wochenende der Clanstadt.
-* 💬 **Kommunikation:** Freundlicher Umgang im Chat und Bereitschaft, Discord für Kriegsorganisation zu nutzen.
-
----
-
-## 👑 Führungsteam & Ansprechpartner
-
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
-  <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 200px; border-left: 4px solid #f1c40f;">
-    <span style="font-size: 12px; color: #aaaaaa;">ANFÜHRER</span><br>
-    <strong style="font-size: 16px; color: #ffffff;">👑 MuSKELBaNaNe</strong>
-  </div>
-  <div style="background: #222831; padding: 15px; border-radius: 10px; flex: 1; min-width: 200px; border-left: 4px solid #e67e22;">
-    <span style="font-size: 12px; color: #aaaaaa;">VIZE-ANFÜHRER</span><br>
-    <strong style="font-size: 16px; color: #ffffff;">⚔️ Th3rion</strong>
-  </div>
-</div>
-
----
-
-## 📈 Live Clan-Statistiken & Historie
-
-<div style="background: #222831; padding: 25px; border-radius: 10px; border-left: 4px solid #3498db; text-align: center; margin: 20px 0;">
-  <h3 style="margin-top: 0; color: #fff;">📈 Transparenz & Kriegsbilanz</h3>
-  <p style="color: #aaa; margin-bottom: 20px;">
-    Möchtest du unsere Kriege, Trophäenverläufe und Aufstellungen im Detail analysieren? Werfe einen Blick auf unser offizielles Profil bei Clash of Stats:
-  </p>
-  <a href="https://www.clashofstats.com/clans/2LR89PLLL/summary" target="_blank" rel="noopener noreferrer" style="background-color: #3498db; color: #fff; padding: 12px 20px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-    📊 Clan-Profil auf Clash of Stats öffnen ↗
-  </a>
-</div>
-
----
-
-## 📜 Unsere Clan-Regeln im Überblick
-1. **Clankrieg & CWL:** Wer auf "Grün" geschaltet ist, macht beide Angriffe. Absprachen erfolgen strukturiert.
-2. **Clanspiele & Clanstadt:** Aktive Pflichtteilnahme – gemeinsam holen wir alle Prämien.
-3. **Kein Rushing:** Wir legen Wert auf gepflegte Dörfer und Helden.
-4. **Spendenkultur:** Angemessenes Geben und Nehmen, genaue Anfragen werden zügig bedient.
-
----
-
-## 💬 Werde Teil der Familie!
-
-Du möchtest dich vor dem Beitritt austauschen oder Fragen stellen? Tritt unserem Discord-Server bei oder schicke uns direkt eine Anfrage im Spiel:
-
-<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="https://discord.gg/gEmbask" target="_blank" rel="noopener noreferrer" style="background-color: #5865F2; color: #fff; padding: 14px 24px; text-decoration: none; font-weight: bold; border-radius: 8px; display: inline-block; box-shadow: 0 4px 10px rgba(88,101,242,0.4);">
-    💬 Discord Beitreten
-  </a>
-  <a href="https://link.clashofclans.com/de?action=OpenClanProfile&tag=2LR89PLLL" style="background-color: #f39c12; color: #fff; padding: 14px 24px; text-decoration: none; font-weight: bold; border-radius: 8px; display: inline-block; box-shadow: 0 4px 10px rgba(243,156,18,0.4);">
-    ⚔️ Im Spiel anfragen
-  </a>
-</p>
-
-<div style="text-align: center; margin-top: 50px; padding-top: 20px; color: #666666; font-size: 12px; border-top: 1px solid #222222;">
-  Clan "Letzte Hoffnung" (#2LR89PLLL) • Hosted on GitHub Pages
-</div>
+  <footer class="site-footer">Clan „Letzte Hoffnung“ (#2LR89PLLL) <span aria-hidden="true">·</span> Gehostet auf GitHub Pages</footer>
+</main>

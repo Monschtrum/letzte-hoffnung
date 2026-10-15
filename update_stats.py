@@ -4,6 +4,7 @@ import re
 import sys
 import time
 import urllib.request
+from datetime import datetime, timezone
 from urllib.error import HTTPError
 from pathlib import Path
 
@@ -84,6 +85,7 @@ replacements = {
     "MEMBERS": members,
     "TROPHIES": f"{trophies:,} 🏆",
     "WINS": f"{war_wins} Siege",
+    "UPDATED": datetime.now(timezone.utc).strftime("%d.%m.%Y %H:%M UTC"),
 }
 for name, value in replacements.items():
     pattern = re.compile(rf"<!--STAT_{name}-->.*?<!--/STAT_{name}-->", re.DOTALL)
