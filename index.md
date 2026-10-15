@@ -1,7 +1,7 @@
 ---
 title: "⚔️ Clan Letzte Hoffnung | RH17 Recruiting"
 description: "Level 19 Clan • RH17 • Strukturierte CW & CWL • Max-Spenden & Aktive Community"
-image: /Gemini_Generated_Image_aevojbaevojbaevo.jpg
+image: /banner.webp
 ---
 
 <style>
@@ -14,7 +14,7 @@ image: /Gemini_Generated_Image_aevojbaevojbaevo.jpg
 </style>
 
 <div style="text-align: center; margin-bottom: 25px;">
-  <img src="Gemini_Generated_Image_aevojbaevojbaevo.jpg" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" onerror="this.style.display='none'">
+  <img src="banner.webp" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 320px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" onerror="this.style.display='none'">
   <h1 style="margin-top: 15px; color: #ffffff;">⚔️ Clan "Letzte Hoffnung"</h1>
   <p style="font-size: 16px; color: #f1c40f; font-weight: bold; margin-top: -5px;">
     Level 19 • RH 17 • Strukturierte Clankriege • Fester Zusammenhalt
