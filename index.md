@@ -5,11 +5,9 @@ image: /banner.webp
 ---
 
 <style>
-#header_wrap {
+#header,
+#title {
   display: none !important;
-}
-#main_content_wrap {
-  padding-top: 15px !important;
 }
 </style>
 
