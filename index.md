@@ -1,3 +1,10 @@
+<head>
+  <meta property="og:title" content="⚔️ Clan Letzte Hoffnung | Clash of Clans" />
+  <meta property="og:description" content="Level 19 Clan • RH17 • Strukturierte CW & CWL • Keine Rusher" />
+  <meta property="og:image" content="https://monschtrum.github.io/letzte-hoffnung/Gemini_Generated_Image_aevojbaevojbaevo.jpg" />
+  <meta property="og:url" content="https://monschtrum.github.io/letzte-hoffnung/" />
+</head>
+
 <div style="text-align: center; margin-bottom: 25px;">
   <img src="Gemini_Generated_Image_aevojbaevojbaevo.jpg" alt="Letzte Hoffnung Clan Banner" style="width: 100%; max-height: 380px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.6);" onerror="this.style.display='none'">
   <h1 style="margin-top: 15px;">⚔️ Clan "Letzte Hoffnung"</h1>
