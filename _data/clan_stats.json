@@ -1,12 +1,4 @@
 {
-<<<<<<< HEAD
-  "updatedAt": "",
-  "clan": {},
-  "members": [],
-  "townHalls": [],
-  "currentWar": null,
-  "warlog": [],
-=======
   "updatedAt": "15.10.2026 18:28 UTC",
   "clan": {
     "level": 19,
@@ -2434,11 +2426,11 @@
       }
     }
   ],
-  "townHalls": {
-    "18": 20,
-    "17": 25,
-    "16": 2
-  },
+  "townHalls": [
+    {"level": 18, "count": 20},
+    {"level": 17, "count": 25},
+    {"level": 16, "count": 2}
+  ],
   "currentWar": {
     "state": "preparation",
     "teamSize": 15,
@@ -3018,7 +3010,6 @@
       }
     }
   ],
->>>>>>> b4c4bbe4af80c646bffaab195be893fd81b47ed9
   "cwl": {
     "season": "",
     "wars": [],

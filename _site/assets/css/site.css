@@ -196,10 +196,9 @@ a:focus-visible {
   min-height: 104px;
   padding: 16px;
   border: 1px solid var(--lh-line);
-  border-left: 4px solid currentColor;
+  border-left: 4px solid #7a9bae;
   border-radius: 6px;
-  background: linear-gradient(145deg, #2c3945, #202933);
-  box-shadow: inset 0 1px rgb(255 255 255 / 3%);
+  background: #29343e;
 }
 
 .stat dt {
@@ -211,7 +210,7 @@ a:focus-visible {
 
 .stat dd {
   margin: 9px 0 0;
-  color: currentColor;
+  color: var(--lh-ink);
   font-size: 25px;
   font-variant-numeric: tabular-nums;
   font-weight: 800;
@@ -445,13 +444,13 @@ a:focus-visible {
 .honoree strong {
   display: block;
   margin: 14px 0 5px;
-  color: var(--lh-gold);
+  color: var(--lh-ink);
   font-size: 24px;
   overflow-wrap: anywhere;
 }
 
 .honoree--green strong {
-  color: var(--lh-green);
+  color: var(--lh-ink);
 }
 
 .data-table-wrap {
@@ -500,7 +499,7 @@ a:focus-visible {
 }
 
 .data-table__rank {
-  color: var(--lh-gold);
+  color: var(--lh-ink);
   font-weight: 800;
 }
 
@@ -523,15 +522,21 @@ a:focus-visible {
 }
 
 .match-result--win {
-  color: var(--lh-green);
+  border-color: #579574;
+  background: #1b3a2e;
+  color: #b7e8ca;
 }
 
 .match-result--loss {
-  color: var(--lh-red);
+  border-color: #a8635e;
+  background: #442a2b;
+  color: #ffc1b8;
 }
 
 .match-result--tie {
-  color: var(--lh-blue);
+  border-color: #5c91a7;
+  background: #243a47;
+  color: #b9e2f1;
 }
 
 .distribution {
