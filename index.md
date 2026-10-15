@@ -10,7 +10,7 @@ image: /banner.webp
     <div class="clan-hero__content">
       <p class="eyebrow">Clash of Clans <span aria-hidden="true">/</span> Clan #2LR89PLLL</p>
       <h1 id="clan-name">Letzte Hoffnung</h1>
-      <p class="clan-hero__summary">Level 19 <span aria-hidden="true">·</span> RH 17 <span aria-hidden="true">·</span> Strukturierte Clankriege <span aria-hidden="true">·</span> Fester Zusammenhalt</p>
+      <p class="clan-hero__summary">Strukturierte Clankriege <span aria-hidden="true">·</span> Fester Zusammenhalt</p>
       <p class="clan-hero__intro">Ein aktiver, zielstrebiger Clan mit ehrgeizigen Kriegen und einer entspannten, hilfsbereiten Gemeinschaft. Für erfahrene Taktiker und ehrgeizige Wiedereinsteiger, die ein strukturiertes Umfeld ohne Chaos suchen.</p>
       <a class="button button--primary" href="https://link.clashofclans.com/de?action=OpenClanProfile&amp;tag=2LR89PLLL">🎮 Clan im Spiel öffnen &amp; bewerben</a>
     </div>
