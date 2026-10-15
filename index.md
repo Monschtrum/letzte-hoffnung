@@ -1,7 +1,12 @@
 <style>
-  /* Blendet den doppelten automatischen GitHub-Header ganz oben aus */
-  header { display: none !important; }
-  .wrapper { max-width: 900px !important; margin: 0 auto !important; padding: 20px !important; }
+header {
+  display: none !important;
+}
+.wrapper {
+  max-width: 900px !important;
+  margin: 0 auto !important;
+  padding: 20px !important;
+}
 </style>
 
 <head>
@@ -140,7 +145,6 @@ Du möchtest dich vor dem Beitritt austauschen oder Fragen stellen? Tritt unsere
   </a>
 </p>
 
-<!-- Schlichter Fußbereich ganz unten -->
 <div style="text-align: center; margin-top: 50px; padding-top: 20px; color: #666666; font-size: 12px; border-top: 1px solid #222222;">
   Clan "Letzte Hoffnung" (#2LR89PLLL) • Hosted on GitHub Pages
 </div>
