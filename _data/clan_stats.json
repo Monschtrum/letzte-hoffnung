@@ -1,5 +1,5 @@
 {
-  "updatedAt": "15.10.2026 20:48 UTC",
+  "updatedAt": "16.10.2026 02:36 UTC",
   "clan": {
     "level": 19,
     "members": 47,
@@ -141,7 +141,7 @@
       "builderBaseTrophies": 4068,
       "clanRank": 11,
       "previousClanRank": 12,
-      "donations": 2056,
+      "donations": 2125,
       "donationsReceived": 844,
       "playerHouse": {
         "elements": [
@@ -191,12 +191,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
         }
       },
-      "trophies": 235,
+      "trophies": 275,
       "builderBaseTrophies": 4900,
       "clanRank": 3,
       "previousClanRank": 3,
       "donations": 1925,
-      "donationsReceived": 3321,
+      "donationsReceived": 3410,
       "playerHouse": {
         "elements": [
           {
@@ -278,7 +278,7 @@
         }
       },
       "trophies": 156,
-      "builderBaseTrophies": 3692,
+      "builderBaseTrophies": 3694,
       "clanRank": 15,
       "previousClanRank": 15,
       "donations": 1356,
@@ -546,7 +546,7 @@
       "builderBaseTrophies": 3186,
       "clanRank": 19,
       "previousClanRank": 19,
-      "donations": 616,
+      "donations": 636,
       "donationsReceived": 1687,
       "builderBaseLeague": {
         "id": 44000025,
@@ -575,7 +575,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/vxV7LI0votsz0_n-8lW-Lag96D5HwKsEgEk_7247zC4.png"
         }
       },
-      "trophies": 382,
+      "trophies": 409,
       "builderBaseTrophies": 3287,
       "clanRank": 35,
       "previousClanRank": 36,
@@ -628,7 +628,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 458,
+      "trophies": 470,
       "builderBaseTrophies": 2249,
       "clanRank": 9,
       "previousClanRank": 10,
@@ -979,6 +979,59 @@
       }
     },
     {
+      "tag": "#YGL2CPY8",
+      "name": "Kriegsaxt",
+      "role": "coLeader",
+      "townHallLevel": 18,
+      "expLevel": 223,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000026,
+        "name": "Titan League 26",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leaguetiers/125/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png",
+          "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
+        }
+      },
+      "trophies": 0,
+      "builderBaseTrophies": 2624,
+      "clanRank": 24,
+      "previousClanRank": 25,
+      "donations": 342,
+      "donationsReceived": 206,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000004
+          },
+          {
+            "type": "walls",
+            "id": 82000052
+          },
+          {
+            "type": "roof",
+            "id": 82000033
+          },
+          {
+            "type": "decoration",
+            "id": 82000066
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000023,
+        "name": "Iron League III"
+      }
+    },
+    {
       "tag": "#LQ0L8J00Q",
       "name": "King of Clash",
       "role": "admin",
@@ -1135,59 +1188,6 @@
       "builderBaseLeague": {
         "id": 44000032,
         "name": "Platinum League III"
-      }
-    },
-    {
-      "tag": "#YGL2CPY8",
-      "name": "Kriegsaxt",
-      "role": "coLeader",
-      "townHallLevel": 18,
-      "expLevel": 223,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "leagueTier": {
-        "id": 105000026,
-        "name": "Titan League 26",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leaguetiers/125/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png",
-          "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
-        }
-      },
-      "trophies": 0,
-      "builderBaseTrophies": 2624,
-      "clanRank": 24,
-      "previousClanRank": 25,
-      "donations": 284,
-      "donationsReceived": 206,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000004
-          },
-          {
-            "type": "walls",
-            "id": 82000052
-          },
-          {
-            "type": "roof",
-            "id": 82000033
-          },
-          {
-            "type": "decoration",
-            "id": 82000066
-          }
-        ]
-      },
-      "builderBaseLeague": {
-        "id": 44000023,
-        "name": "Iron League III"
       }
     },
     {
@@ -1405,12 +1405,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png"
         }
       },
-      "trophies": 148,
+      "trophies": 188,
       "builderBaseTrophies": 4916,
       "clanRank": 39,
       "previousClanRank": 39,
       "donations": 181,
-      "donationsReceived": 399,
+      "donationsReceived": 457,
       "playerHouse": {
         "elements": [
           {
@@ -1598,7 +1598,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 564,
+      "trophies": 579,
       "builderBaseTrophies": 4506,
       "clanRank": 8,
       "previousClanRank": 8,
@@ -1651,7 +1651,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png"
         }
       },
-      "trophies": 481,
+      "trophies": 495,
       "builderBaseTrophies": 3308,
       "clanRank": 37,
       "previousClanRank": 40,
@@ -5692,7 +5692,7 @@
     "#Q9Y0R8VL8": 147,
     "#YGLGVL20": 547,
     "#LQ0L8J00Q": 332,
-    "#2CGPYPUVG": 2056,
+    "#2CGPYPUVG": 2125,
     "#LV9VJCQU2": 169,
     "#2U28UY0UU": 503,
     "#Q9C82GYR9": 471,
@@ -5700,12 +5700,12 @@
     "#LVCCVYCQL": 0,
     "#92JRV200": 1381,
     "#2QRP9RPLG": 0,
-    "#PLQGC9PRL": 616,
+    "#PLQGC9PRL": 636,
     "#9Q9LY82PP": 254,
     "#JCUV0QJG": 0,
     "#Q0RY2CCPV": 0,
     "#YUYCVRYLJ": 0,
-    "#YGL2CPY8": 284,
+    "#YGL2CPY8": 342,
     "#20PRLRLY": 0,
     "#P09R9JYQG": 41,
     "#GCJRGRQ2P": 0,
@@ -5758,6 +5758,18 @@
         "#LQ0L8J00Q": {
           "name": "King of Clash",
           "donations": 55
+        },
+        "#2CGPYPUVG": {
+          "name": "Dracan",
+          "donations": 69
+        },
+        "#PLQGC9PRL": {
+          "name": "Tarkan",
+          "donations": 20
+        },
+        "#YGL2CPY8": {
+          "name": "Kriegsaxt",
+          "donations": 58
         }
       }
     },
