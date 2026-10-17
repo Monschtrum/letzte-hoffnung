@@ -19,10 +19,10 @@ layout: default
       <p>Ein laufender Blick auf unsere Mitglieder, gemeinsame Kriege und die Fortschritte in der Clanstadt.</p>
     </div>
     <div class="stats-intro__art" aria-hidden="true">
-      <img src="{{ '/assets/images/BK_Skeleton_Kingdom_Pose_01.webp' | relative_url }}" alt="" width="1014" height="1200" decoding="async">
-      <img src="{{ '/assets/images/Thrower_07_noShadow.webp' | relative_url }}" alt="" width="894" height="1200" decoding="async">
+      <img src="{{ '/assets/images/BK_Skeleton_Kingdom_Pose_01.webp' | relative_url }}" alt="" width="101" height="120" decoding="async">
+      <img src="{{ '/assets/images/Thrower_07_noShadow.webp' | relative_url }}" alt="" width="89" height="120" decoding="async">
     </div>
-    <a class="button button--secondary" href="https://www.clashofstats.com/clans/2LR89PLLL/summary" target="_blank" rel="noopener noreferrer">Clan-Profil <span aria-hidden="true">↗</span></a>
+    <a class="button button--secondary" href="https://www.clashofstats.com/clans/letzte-hoffnung-2LR89PLLL/" target="_blank" rel="noopener noreferrer">Clan-Profil <span aria-hidden="true">↗</span></a>
   </header>
 
   <section class="stats-section" aria-labelledby="overview-title">
@@ -43,7 +43,7 @@ layout: default
         <p class="eyebrow">Monatliche Auszeichnungen</p>
         <h2 id="honorees-title">Mitglied des Monats{% if stats.monthly.history.first %}: {{ stats.monthly.history.first.month }}{% endif %}</h2>
       </div>
-      <img class="honoree-heading__art" src="{{ '/assets/images/Archer_Queen_8.webp' | relative_url }}" alt="" width="363" height="599" aria-hidden="true" loading="lazy" decoding="async">
+      <img class="honoree-heading__art" src="{{ '/assets/images/Archer_Queen_8.webp' | relative_url }}" alt="" width="73" height="120" aria-hidden="true" loading="lazy" decoding="async">
     </div>
     {% if stats.monthly.history.first %}
       {% assign latest_month = stats.monthly.history.first %}

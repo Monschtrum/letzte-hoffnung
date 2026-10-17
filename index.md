@@ -88,7 +88,7 @@ layout: default
       <h2 id="history-heading">Kriege, Trophäen und Aufstellungen</h2>
       <p>Weitere Clan-Statistiken und Verläufe findest du bei Clash of Stats.</p>
     </div>
-    <a class="button button--secondary" href="https://www.clashofstats.com/clans/2LR89PLLL/summary" target="_blank" rel="noopener noreferrer">Clan-Profil öffnen <span aria-hidden="true">↗</span></a>
+    <a class="button button--secondary" href="https://www.clashofstats.com/clans/letzte-hoffnung-2LR89PLLL/" target="_blank" rel="noopener noreferrer">Clan-Profil öffnen <span aria-hidden="true">↗</span></a>
   </section>
 
   <section class="content-section rules" aria-labelledby="rules-heading">
