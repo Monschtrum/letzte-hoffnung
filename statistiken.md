@@ -2,6 +2,7 @@
 title: "Clan-Statistiken | Letzte Hoffnung"
 description: "Live-Daten, Clanstruktur, Kriegsverlauf und Mitglieder-Auszeichnungen von Letzte Hoffnung."
 permalink: /statistiken/
+layout: default
 ---
 
 {% assign stats = site.data.clan_stats %}
@@ -12,10 +13,14 @@ permalink: /statistiken/
   </nav>
 
   <header class="stats-intro">
-    <div>
+    <div class="stats-intro__copy">
       <p class="eyebrow">Letzte Hoffnung · #2LR89PLLL</p>
       <h1>Zahlen, die uns verbinden</h1>
       <p>Ein laufender Blick auf unsere Mitglieder, gemeinsame Kriege und die Fortschritte in der Clanstadt.</p>
+    </div>
+    <div class="stats-intro__art" aria-hidden="true">
+      <img src="{{ '/assets/images/BK_Skeleton_Kingdom_Pose_01.webp' | relative_url }}" alt="" width="1014" height="1200" decoding="async">
+      <img src="{{ '/assets/images/Thrower_07_noShadow.webp' | relative_url }}" alt="" width="894" height="1200" decoding="async">
     </div>
     <a class="button button--secondary" href="https://www.clashofstats.com/clans/2LR89PLLL/summary" target="_blank" rel="noopener noreferrer">Clan-Profil <span aria-hidden="true">↗</span></a>
   </header>
@@ -33,8 +38,13 @@ permalink: /statistiken/
   </section>
 
   <section class="stats-section" aria-labelledby="honorees-title">
-    <p class="eyebrow">Monatliche Auszeichnungen</p>
-    <h2 id="honorees-title">Mitglied des Monats{% if stats.monthly.history.first %}: {{ stats.monthly.history.first.month }}{% endif %}</h2>
+    <div class="honoree-heading">
+      <div class="honoree-heading__copy">
+        <p class="eyebrow">Monatliche Auszeichnungen</p>
+        <h2 id="honorees-title">Mitglied des Monats{% if stats.monthly.history.first %}: {{ stats.monthly.history.first.month }}{% endif %}</h2>
+      </div>
+      <img class="honoree-heading__art" src="{{ '/assets/images/Archer_Queen_8.webp' | relative_url }}" alt="" width="363" height="599" aria-hidden="true" loading="lazy" decoding="async">
+    </div>
     {% if stats.monthly.history.first %}
       {% assign latest_month = stats.monthly.history.first %}
       <div class="honoree-grid">

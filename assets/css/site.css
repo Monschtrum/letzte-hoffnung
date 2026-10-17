@@ -12,6 +12,14 @@
   --lh-discord: #9aa9ff;
 }
 
+@font-face {
+  font-family: "Clash Regular";
+  src: url("../fonts/Clash_Regular.otf.ttf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
 #header,
 #title {
   display: none !important;
@@ -35,6 +43,10 @@ a:focus-visible {
 
 .clan-page {
   color: var(--lh-ink);
+}
+
+.stats-page {
+  font-family: "Clash Regular", sans-serif;
 }
 
 .page-nav {
@@ -373,12 +385,16 @@ a:focus-visible {
 }
 
 .stats-intro {
-  display: flex;
-  align-items: end;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 220px auto;
+  align-items: center;
   gap: 18px;
   padding: 25px 0 22px;
   border-bottom: 1px solid var(--lh-line);
+}
+
+.stats-intro__copy {
+  min-width: 0;
 }
 
 .stats-intro h1 {
@@ -391,6 +407,23 @@ a:focus-visible {
   margin: 10px 0 0;
   color: var(--lh-muted) !important;
   line-height: 1.6;
+}
+
+.stats-intro__art {
+  display: flex;
+  height: 164px;
+  align-items: flex-end;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.stats-intro__art img {
+  display: block;
+  width: 50%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center bottom;
+  filter: drop-shadow(0 7px 8px rgb(0 0 0 / 28%));
 }
 
 .stats-section {
@@ -412,6 +445,28 @@ a:focus-visible {
   margin: 7px 0 14px;
   color: var(--lh-muted) !important;
   font-size: 14px;
+}
+
+.honoree-heading {
+  display: flex;
+  min-height: 136px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.honoree-heading__copy {
+  min-width: 0;
+}
+
+.honoree-heading__art {
+  display: block;
+  flex: 0 0 76px;
+  width: 76px;
+  height: 126px;
+  object-fit: contain;
+  object-position: center bottom;
+  filter: drop-shadow(0 7px 8px rgb(0 0 0 / 28%));
 }
 
 .honoree-grid {
@@ -597,6 +652,21 @@ a:focus-visible {
     flex-direction: column;
   }
 
+  .stats-intro {
+    grid-template-columns: minmax(0, 1fr) 160px;
+  }
+
+  .stats-intro__art {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    height: 132px;
+  }
+
+  .stats-intro > .button {
+    grid-column: 1;
+    justify-self: start;
+  }
+
   .stats-updated {
     text-align: left;
   }
@@ -632,8 +702,36 @@ a:focus-visible {
     grid-template-columns: 1fr;
   }
 
+  .honoree-heading {
+    min-height: 108px;
+    gap: 10px;
+  }
+
+  .honoree-heading__art {
+    flex-basis: 58px;
+    width: 58px;
+    height: 96px;
+  }
+
   .stats-intro h1 {
     font-size: 28px;
+  }
+
+  .stats-intro {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 12px;
+  }
+
+  .stats-intro__art {
+    grid-column: 1;
+    grid-row: auto;
+    height: 120px;
+    max-width: 220px;
+    justify-self: end;
+  }
+
+  .stats-intro > .button {
+    grid-column: 1;
   }
 
   .join-actions,

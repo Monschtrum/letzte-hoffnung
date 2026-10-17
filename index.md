@@ -2,6 +2,7 @@
 title: "⚔️ Clan Letzte Hoffnung | RH17 Recruiting"
 description: "Level 19 Clan • RH17 • Strukturierte CW & CWL • Max-Spenden & Aktive Community"
 image: /banner.webp
+layout: default
 ---
 
 <main class="clan-page">
