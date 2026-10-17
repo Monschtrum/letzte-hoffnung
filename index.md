@@ -12,7 +12,9 @@ layout: default
   </nav>
 
   <section class="clan-hero" aria-labelledby="clan-name">
-    <img class="clan-hero__image" src="{{ '/banner.webp' | relative_url }}" alt="Banner des Clash-of-Clans-Clans Letzte Hoffnung" fetchpriority="high">
+    <a class="clan-hero__image-link" href="https://link.clashofclans.com/de?action=OpenClanProfile&amp;tag=2LR89PLLL" aria-label="Clan Letzte Hoffnung in Clash of Clans öffnen">
+      <img class="clan-hero__image" src="{{ '/banner.webp' | relative_url }}" alt="" width="650" height="276" fetchpriority="high">
+    </a>
     <div class="clan-hero__content">
       <p class="eyebrow">Clash of Clans <span aria-hidden="true">/</span> Clan #2LR89PLLL</p>
       <h1 id="clan-name">Letzte Hoffnung</h1>
@@ -103,15 +105,20 @@ layout: default
   </section>
 
   <section class="join-section" aria-labelledby="join-heading">
-    <div>
-      <p class="eyebrow">Der nächste Schritt</p>
-      <h2 id="join-heading">Werde Teil der Familie</h2>
-      <p>Fragen vorab? Schreib uns auf Discord oder schick direkt eine Anfrage im Spiel.</p>
+    <div class="join-section__content">
+      <div>
+        <p class="eyebrow">Der nächste Schritt</p>
+        <h2 id="join-heading">Werde Teil des Teams</h2>
+        <p>Fragen vorab? Schreib uns auf Discord oder schick direkt eine Anfrage im Spiel.</p>
+      </div>
+      <div class="join-actions">
+        <a class="button button--discord" href="https://discord.gg/gEmbask" target="_blank" rel="noopener noreferrer">💬 Discord beitreten</a>
+        <a class="button button--primary" href="https://link.clashofclans.com/de?action=OpenClanProfile&amp;tag=2LR89PLLL">⚔️ Im Spiel anfragen</a>
+      </div>
     </div>
-    <div class="join-actions">
-      <a class="button button--discord" href="https://discord.gg/gEmbask" target="_blank" rel="noopener noreferrer">💬 Discord beitreten</a>
-      <a class="button button--primary" href="https://link.clashofclans.com/de?action=OpenClanProfile&amp;tag=2LR89PLLL">⚔️ Im Spiel anfragen</a>
-    </div>
+    <a class="join-section__banner" href="https://link.clashofclans.com/de?action=OpenClanProfile&amp;tag=2LR89PLLL" aria-label="Clan Letzte Hoffnung in Clash of Clans öffnen">
+      <img src="{{ '/assets/images/Gemini_Generated_Image_4dmh2n4dmh2n4dmh.webp' | relative_url }}" alt="" width="1600" height="679" loading="lazy" decoding="async">
+    </a>
   </section>
 
   <footer class="site-footer">Clan „Letzte Hoffnung“ (#2LR89PLLL) <span aria-hidden="true">·</span> Gehostet auf GitHub Pages</footer>

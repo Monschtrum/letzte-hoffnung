@@ -91,12 +91,23 @@ a:focus-visible {
 .clan-hero__image {
   display: block;
   width: 100%;
+  height: auto;
   aspect-ratio: 2.35 / 1;
   max-height: 390px;
   object-fit: cover;
   border: 1px solid var(--lh-line);
   border-radius: 8px;
   box-shadow: 0 12px 28px rgb(0 0 0 / 24%);
+}
+
+.clan-hero__image-link {
+  display: block;
+  border-radius: 8px;
+  text-decoration: none !important;
+}
+
+.clan-hero__image-link:hover .clan-hero__image {
+  filter: brightness(1.04);
 }
 
 .clan-hero__content {
@@ -365,7 +376,32 @@ a:focus-visible {
 }
 
 .join-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
   border-left-color: var(--lh-gold);
+}
+
+.join-section__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.join-section__banner {
+  display: block;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.join-section__banner img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.join-section__banner:hover img {
+  filter: brightness(1.04);
 }
 
 .join-actions {
@@ -652,6 +688,11 @@ a:focus-visible {
     flex-direction: column;
   }
 
+  .join-section__content {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
   .stats-intro {
     grid-template-columns: minmax(0, 1fr) 160px;
   }
@@ -673,10 +714,6 @@ a:focus-visible {
 }
 
 @media (max-width: 480px) {
-  .clan-hero__image {
-    aspect-ratio: 1.8 / 1;
-  }
-
   .clan-hero h1 {
     font-size: 29px;
   }
