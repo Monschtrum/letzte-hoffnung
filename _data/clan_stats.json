@@ -1,5 +1,5 @@
 {
-  "updatedAt": "21.10.2026 21:05 UTC",
+  "updatedAt": "22.10.2026 02:47 UTC",
   "clan": {
     "level": 19,
     "members": 37,
@@ -120,7 +120,7 @@
       "name": "Dracan",
       "role": "coLeader",
       "townHallLevel": 18,
-      "expLevel": 224,
+      "expLevel": 225,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -141,7 +141,7 @@
       "builderBaseTrophies": 4068,
       "clanRank": 11,
       "previousClanRank": 12,
-      "donations": 2996,
+      "donations": 3084,
       "donationsReceived": 844,
       "playerHouse": {
         "elements": [
@@ -332,7 +332,7 @@
       },
       "trophies": 63,
       "builderBaseTrophies": 3843,
-      "clanRank": 12,
+      "clanRank": 13,
       "previousClanRank": 13,
       "donations": 1674,
       "donationsReceived": 3478,
@@ -489,12 +489,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
         }
       },
-      "trophies": 32,
+      "trophies": 131,
       "builderBaseTrophies": 3729,
-      "clanRank": 13,
+      "clanRank": 12,
       "previousClanRank": 14,
       "donations": 1104,
-      "donationsReceived": 514,
+      "donationsReceived": 602,
       "playerHouse": {
         "elements": [
           {
@@ -685,7 +685,7 @@
       "name": "Tarkan",
       "role": "admin",
       "townHallLevel": 17,
-      "expLevel": 210,
+      "expLevel": 211,
       "league": {
         "id": 29000000,
         "name": "Unranked",
@@ -1335,7 +1335,7 @@
         }
       },
       "trophies": 310,
-      "builderBaseTrophies": 4076,
+      "builderBaseTrophies": 4099,
       "clanRank": 25,
       "previousClanRank": 28,
       "donations": 232,
@@ -1758,7 +1758,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
         }
       },
-      "trophies": 40,
+      "trophies": 60,
       "builderBaseTrophies": 2545,
       "clanRank": 17,
       "previousClanRank": 21,
@@ -5987,9 +5987,9 @@
     "#LQ0L8J00Q": 828,
     "#YGLGVL20": 550,
     "#LV9VJCQU2": 178,
-    "#2CGPYPUVG": 2996,
-    "#YP22QR2RU": 1674,
+    "#2CGPYPUVG": 3084,
     "#2U28UY0UU": 1104,
+    "#YP22QR2RU": 1674,
     "#PLQGC9PRL": 700,
     "#9Q9LY82PP": 313,
     "#92JRV200": 2000,
@@ -6220,7 +6220,7 @@
         },
         "#2CGPYPUVG": {
           "name": "Dracan",
-          "donations": 940
+          "donations": 1028
         },
         "#PLQGC9PRL": {
           "name": "Tarkan",
