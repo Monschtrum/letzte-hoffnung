@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22.10.2026 21:03 UTC",
+  "updatedAt": "23.10.2026 02:50 UTC",
   "clan": {
     "level": 19,
     "members": 37,
@@ -493,7 +493,7 @@
       "builderBaseTrophies": 3729,
       "clanRank": 12,
       "previousClanRank": 12,
-      "donations": 1194,
+      "donations": 1247,
       "donationsReceived": 602,
       "playerHouse": {
         "elements": [
@@ -1200,7 +1200,7 @@
       "clanRank": 34,
       "previousClanRank": 34,
       "donations": 345,
-      "donationsReceived": 869,
+      "donationsReceived": 922,
       "playerHouse": {
         "elements": [
           {
@@ -1248,7 +1248,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
         }
       },
-      "trophies": 369,
+      "trophies": 379,
       "builderBaseTrophies": 4516,
       "clanRank": 5,
       "previousClanRank": 5,
@@ -1301,7 +1301,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/YCZ7O_3_c8eCBYvX-92qiWeLc6Md6eNJ5A8O-2vUg7I.png"
         }
       },
-      "trophies": 263,
+      "trophies": 283,
       "builderBaseTrophies": 2944,
       "clanRank": 15,
       "previousClanRank": 15,
@@ -6414,7 +6414,7 @@
     "#YGLGVL20": 550,
     "#LV9VJCQU2": 178,
     "#2CGPYPUVG": 3232,
-    "#2U28UY0UU": 1194,
+    "#2U28UY0UU": 1247,
     "#YP22QR2RU": 1674,
     "#PLQGC9PRL": 700,
     "#9Q9LY82PP": 313,
@@ -6729,7 +6729,7 @@
         },
         "#2U28UY0UU": {
           "name": "RĂĞÑĂR",
-          "donations": 691
+          "donations": 744
         },
         "#LU9RRYRJ0": {
           "name": "Ritschy",
