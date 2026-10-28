@@ -1,5 +1,5 @@
 {
-  "updatedAt": "27.10.2026 21:40 UTC",
+  "updatedAt": "28.10.2026 03:26 UTC",
   "clan": {
     "level": 19,
     "members": 37,
@@ -34,7 +34,7 @@
       "builderBaseTrophies": 4734,
       "clanRank": 2,
       "previousClanRank": 2,
-      "donations": 25621,
+      "donations": 25647,
       "donationsReceived": 10650,
       "playerHouse": {
         "elements": [
@@ -138,10 +138,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 97,
+      "trophies": 110,
       "builderBaseTrophies": 3934,
       "clanRank": 8,
-      "previousClanRank": 12,
+      "previousClanRank": 8,
       "donations": 4508,
       "donationsReceived": 14882,
       "playerHouse": {
@@ -194,8 +194,8 @@
       "trophies": 0,
       "builderBaseTrophies": 4068,
       "clanRank": 12,
-      "previousClanRank": 9,
-      "donations": 4124,
+      "previousClanRank": 10,
+      "donations": 4378,
       "donationsReceived": 844,
       "playerHouse": {
         "elements": [
@@ -247,7 +247,7 @@
       "trophies": 0,
       "builderBaseTrophies": 4439,
       "clanRank": 16,
-      "previousClanRank": 15,
+      "previousClanRank": 16,
       "donations": 3219,
       "donationsReceived": 357,
       "builderBaseLeague": {
@@ -364,7 +364,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/DIMeRH3N4lrNObA3zAmk_eUin8nvNeLR89qYznnA--s.png"
         }
       },
-      "trophies": 59,
+      "trophies": 77,
       "builderBaseTrophies": 3996,
       "clanRank": 14,
       "previousClanRank": 14,
@@ -526,9 +526,9 @@
       "trophies": 157,
       "builderBaseTrophies": 3729,
       "clanRank": 7,
-      "previousClanRank": 8,
-      "donations": 1463,
-      "donationsReceived": 1074,
+      "previousClanRank": 7,
+      "donations": 1546,
+      "donationsReceived": 1247,
       "playerHouse": {
         "elements": [
           {
@@ -578,10 +578,10 @@
         }
       },
       "trophies": 90,
-      "builderBaseTrophies": 2873,
+      "builderBaseTrophies": 2756,
       "clanRank": 33,
       "previousClanRank": 33,
-      "donations": 1259,
+      "donations": 1318,
       "donationsReceived": 553,
       "playerHouse": {
         "elements": [
@@ -604,8 +604,8 @@
         ]
       },
       "builderBaseLeague": {
-        "id": 44000024,
-        "name": "Iron League II"
+        "id": 44000023,
+        "name": "Iron League III"
       }
     },
     {
@@ -633,9 +633,9 @@
       "trophies": 195,
       "builderBaseTrophies": 3261,
       "clanRank": 19,
-      "previousClanRank": 20,
-      "donations": 1194,
-      "donationsReceived": 1668,
+      "previousClanRank": 19,
+      "donations": 1301,
+      "donationsReceived": 1753,
       "playerHouse": {
         "elements": [
           {
@@ -687,7 +687,7 @@
       "trophies": 279,
       "builderBaseTrophies": 4857,
       "clanRank": 28,
-      "previousClanRank": 32,
+      "previousClanRank": 28,
       "donations": 1175,
       "donationsReceived": 1886,
       "playerHouse": {
@@ -740,7 +740,7 @@
       "trophies": 55,
       "builderBaseTrophies": 4330,
       "clanRank": 9,
-      "previousClanRank": 7,
+      "previousClanRank": 9,
       "donations": 1039,
       "donationsReceived": 2888,
       "playerHouse": {
@@ -878,8 +878,8 @@
       },
       "trophies": 23,
       "builderBaseTrophies": 2245,
-      "clanRank": 10,
-      "previousClanRank": 11,
+      "clanRank": 11,
+      "previousClanRank": 12,
       "donations": 743,
       "donationsReceived": 1531,
       "playerHouse": {
@@ -932,9 +932,9 @@
       "trophies": 0,
       "builderBaseTrophies": 3714,
       "clanRank": 30,
-      "previousClanRank": 29,
-      "donations": 572,
-      "donationsReceived": 1342,
+      "previousClanRank": 30,
+      "donations": 660,
+      "donationsReceived": 1596,
       "playerHouse": {
         "elements": [
           {
@@ -1144,7 +1144,7 @@
       "trophies": 81,
       "builderBaseTrophies": 2944,
       "clanRank": 15,
-      "previousClanRank": 16,
+      "previousClanRank": 15,
       "donations": 408,
       "donationsReceived": 2856,
       "builderBaseLeague": {
@@ -1231,7 +1231,7 @@
       "trophies": 0,
       "builderBaseTrophies": 2928,
       "clanRank": 32,
-      "previousClanRank": 31,
+      "previousClanRank": 32,
       "donations": 393,
       "donationsReceived": 2271,
       "playerHouse": {
@@ -1286,7 +1286,7 @@
       "clanRank": 35,
       "previousClanRank": 35,
       "donations": 345,
-      "donationsReceived": 1022,
+      "donationsReceived": 1127,
       "playerHouse": {
         "elements": [
           {
@@ -1390,7 +1390,7 @@
       "trophies": 54,
       "builderBaseTrophies": 3199,
       "clanRank": 29,
-      "previousClanRank": 28,
+      "previousClanRank": 29,
       "donations": 217,
       "donationsReceived": 681,
       "playerHouse": {
@@ -1444,7 +1444,7 @@
       "trophies": 139,
       "builderBaseTrophies": 3441,
       "clanRank": 20,
-      "previousClanRank": 19,
+      "previousClanRank": 20,
       "donations": 203,
       "donationsReceived": 0,
       "playerHouse": {
@@ -1494,10 +1494,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 16,
+      "trophies": 37,
       "builderBaseTrophies": 3764,
-      "clanRank": 11,
-      "previousClanRank": 10,
+      "clanRank": 10,
+      "previousClanRank": 11,
       "donations": 178,
       "donationsReceived": 2393,
       "playerHouse": {
@@ -1550,7 +1550,7 @@
       "trophies": 0,
       "builderBaseTrophies": 2247,
       "clanRank": 31,
-      "previousClanRank": 30,
+      "previousClanRank": 31,
       "donations": 115,
       "donationsReceived": 0,
       "playerHouse": {
@@ -5403,24 +5403,24 @@
   },
   "memberDonationTotals": {
     "#V29CVGRL": 5098,
-    "#9UVYCR0YL": 25621,
+    "#9UVYCR0YL": 25647,
     "#GRVYJVJYR": 2045,
     "#Q9Y0R8VL8": 502,
     "#8LRCPP0YY": 1988,
     "#22U2V90U8": 2748,
-    "#2U28UY0UU": 1463,
+    "#2U28UY0UU": 1546,
     "#J90RG8U9": 4508,
     "#LQ0L8J00Q": 1039,
-    "#YGLGVL20": 743,
     "#LV9VJCQU2": 178,
-    "#2CGPYPUVG": 4124,
+    "#YGLGVL20": 743,
+    "#2CGPYPUVG": 4378,
     "#PLQGC9PRL": 801,
     "#YP22QR2RU": 2021,
     "#9Q9LY82PP": 408,
     "#92JRV200": 3219,
     "#880LQYR28": 0,
     "#Q0RY2CCPV": 298,
-    "#P9PYV2CQR": 1194,
+    "#P9PYV2CQR": 1301,
     "#82PR8LLCU": 203,
     "#YUYCVRYLJ": 35,
     "#YGL2CPY8": 471,
@@ -5431,10 +5431,10 @@
     "#LQR90U0YV": 1618,
     "#QP0QPGJJY": 1175,
     "#L989CUGPU": 217,
-    "#YU98PCYJG": 572,
+    "#YU98PCYJG": 660,
     "#QG82008PV": 115,
     "#GPG2P2Q0L": 393,
-    "#LJ29RUJ": 1259,
+    "#LJ29RUJ": 1318,
     "#C29PV00J": 110,
     "#LU0P2080P": 345,
     "#GQPQ29Q2L": 71,
@@ -5706,7 +5706,7 @@
       "donations": {
         "#9UVYCR0YL": {
           "name": "MuSKeLBaNaNe",
-          "donations": 14813
+          "donations": 14839
         },
         "#V29CVGRL": {
           "name": "Th3rion",
@@ -5726,7 +5726,7 @@
         },
         "#2CGPYPUVG": {
           "name": "Dracan",
-          "donations": 2068
+          "donations": 2322
         },
         "#PLQGC9PRL": {
           "name": "Tarkan",
@@ -5782,11 +5782,11 @@
         },
         "#LJ29RUJ": {
           "name": "Marlboro",
-          "donations": 775
+          "donations": 834
         },
         "#2U28UY0UU": {
           "name": "RĂĞÑĂR",
-          "donations": 960
+          "donations": 1043
         },
         "#LU9RRYRJ0": {
           "name": "Ritschy",
@@ -5830,7 +5830,7 @@
         },
         "#P9PYV2CQR": {
           "name": "Mr.Flauschball",
-          "donations": 579
+          "donations": 686
         },
         "#800YUCUC": {
           "name": "CAPITAL",
@@ -5846,7 +5846,7 @@
         },
         "#YU98PCYJG": {
           "name": "jojo",
-          "donations": 117
+          "donations": 205
         },
         "#LU0P2080P": {
           "name": "colinFcb",
