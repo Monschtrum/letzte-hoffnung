@@ -30,7 +30,7 @@ layout: default
         <p class="eyebrow">Auf einen Blick</p>
         <h2 id="stats-heading">Clan-Statistiken</h2>
       </div>
-      <p class="stats-updated">Zuletzt erfolgreich aktualisiert: <span><!--STAT_UPDATED-->28.10.2026 17:47 UTC<!--/STAT_UPDATED--></span></p>
+      <p class="stats-updated">Zuletzt erfolgreich aktualisiert: <span><!--STAT_UPDATED-->28.10.2026 22:04 UTC<!--/STAT_UPDATED--></span></p>
     </div>
     <dl class="stats-grid">
       <div class="stat stat--gold"><dt>Clan-Level</dt><dd><!--STAT_LEVEL-->Level 19<!--/STAT_LEVEL--></dd></div>
