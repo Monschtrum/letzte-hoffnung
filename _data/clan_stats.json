@@ -1,5 +1,5 @@
 {
-  "updatedAt": "31.10.2026 20:51 UTC",
+  "updatedAt": "01.11.2026 03:41 UTC",
   "clan": {
     "level": 19,
     "members": 40,
@@ -34,7 +34,7 @@
       "builderBaseTrophies": 4734,
       "clanRank": 2,
       "previousClanRank": 2,
-      "donations": 29849,
+      "donations": 29959,
       "donationsReceived": 12562,
       "playerHouse": {
         "elements": [
@@ -84,12 +84,12 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/VFqkaQimExWtSmIf9PC8WEpj4Vd58oLjPWyZqfVb5VE.png"
         }
       },
-      "trophies": 809,
+      "trophies": 832,
       "builderBaseTrophies": 4763,
       "clanRank": 1,
       "previousClanRank": 1,
       "donations": 5663,
-      "donationsReceived": 6231,
+      "donationsReceived": 6290,
       "playerHouse": {
         "elements": [
           {
@@ -142,7 +142,7 @@
       "builderBaseTrophies": 3934,
       "clanRank": 8,
       "previousClanRank": 8,
-      "donations": 5400,
+      "donations": 5456,
       "donationsReceived": 16373,
       "playerHouse": {
         "elements": [
@@ -195,7 +195,7 @@
       "builderBaseTrophies": 4068,
       "clanRank": 11,
       "previousClanRank": 11,
-      "donations": 4741,
+      "donations": 4800,
       "donationsReceived": 844,
       "playerHouse": {
         "elements": [
@@ -335,7 +335,7 @@
       "clanRank": 14,
       "previousClanRank": 14,
       "donations": 2377,
-      "donationsReceived": 5298,
+      "donationsReceived": 5353,
       "playerHouse": {
         "elements": [
           {
@@ -440,7 +440,7 @@
       "builderBaseTrophies": 2630,
       "clanRank": 28,
       "previousClanRank": 26,
-      "donations": 1934,
+      "donations": 1971,
       "donationsReceived": 972,
       "playerHouse": {
         "elements": [
@@ -547,7 +547,7 @@
       "clanRank": 19,
       "previousClanRank": 18,
       "donations": 1408,
-      "donationsReceived": 2123,
+      "donationsReceived": 2237,
       "playerHouse": {
         "elements": [
           {
@@ -600,7 +600,7 @@
       "builderBaseTrophies": 4866,
       "clanRank": 29,
       "previousClanRank": 27,
-      "donations": 1379,
+      "donations": 1400,
       "donationsReceived": 2176,
       "playerHouse": {
         "elements": [
@@ -1166,7 +1166,7 @@
       "clanRank": 15,
       "previousClanRank": 15,
       "donations": 442,
-      "donationsReceived": 3092,
+      "donationsReceived": 3147,
       "builderBaseLeague": {
         "id": 44000024,
         "name": "Iron League II"
@@ -1247,7 +1247,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png"
         }
       },
-      "trophies": 48,
+      "trophies": 71,
       "builderBaseTrophies": 4497,
       "clanRank": 35,
       "previousClanRank": 33,
@@ -1726,7 +1726,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
         }
       },
-      "trophies": 150,
+      "trophies": 174,
       "builderBaseTrophies": 2824,
       "clanRank": 21,
       "previousClanRank": 20,
@@ -3110,10 +3110,10 @@
     "state": "ongoing",
     "startTime": "20261030T070000.000Z",
     "endTime": "20261102T070000.000Z",
-    "capitalTotalLoot": 344638,
+    "capitalTotalLoot": 361174,
     "raidsCompleted": 5,
-    "totalAttacks": 84,
-    "enemyDistrictsDestroyed": 30,
+    "totalAttacks": 90,
+    "enemyDistrictsDestroyed": 31,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -3204,6 +3204,14 @@
         "attackLimit": 5,
         "bonusAttackLimit": 1,
         "capitalResourcesLooted": 17125
+      },
+      {
+        "tag": "#J90RG8U9",
+        "name": "erick's♣city☆",
+        "attacks": 6,
+        "attackLimit": 5,
+        "bonusAttackLimit": 1,
+        "capitalResourcesLooted": 16536
       },
       {
         "tag": "#8LRCPP0YY",
@@ -4214,9 +4222,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/jukUClKMZwW0SSr17ZVaMb309e6CFwvpnueOrBsY-I0.png"
           }
         },
-        "attackCount": 7,
+        "attackCount": 13,
         "districtCount": 9,
-        "districtsDestroyed": 3,
+        "districtsDestroyed": 4,
         "districts": [
           {
             "id": 70000000,
@@ -4249,11 +4257,27 @@
             "id": 70000003,
             "name": "Balloon Lagoon",
             "districtHallLevel": 5,
-            "destructionPercent": 44,
-            "stars": 0,
-            "attackCount": 1,
-            "totalLooted": 3565,
+            "destructionPercent": 79,
+            "stars": 2,
+            "attackCount": 3,
+            "totalLooted": 8165,
             "attacks": [
+              {
+                "attacker": {
+                  "tag": "#J90RG8U9",
+                  "name": "erick's♣city☆"
+                },
+                "destructionPercent": 79,
+                "stars": 2
+              },
+              {
+                "attacker": {
+                  "tag": "#J90RG8U9",
+                  "name": "erick's♣city☆"
+                },
+                "destructionPercent": 56,
+                "stars": 2
+              },
               {
                 "attacker": {
                   "tag": "#PGU99VG28",
@@ -4268,10 +4292,44 @@
             "id": 70000004,
             "name": "Builder's Workshop",
             "districtHallLevel": 5,
-            "destructionPercent": 0,
-            "stars": 0,
-            "attackCount": 0,
-            "totalLooted": 0
+            "destructionPercent": 100,
+            "stars": 3,
+            "attackCount": 4,
+            "totalLooted": 11936,
+            "attacks": [
+              {
+                "attacker": {
+                  "tag": "#J90RG8U9",
+                  "name": "erick's♣city☆"
+                },
+                "destructionPercent": 100,
+                "stars": 3
+              },
+              {
+                "attacker": {
+                  "tag": "#J90RG8U9",
+                  "name": "erick's♣city☆"
+                },
+                "destructionPercent": 64,
+                "stars": 1
+              },
+              {
+                "attacker": {
+                  "tag": "#J90RG8U9",
+                  "name": "erick's♣city☆"
+                },
+                "destructionPercent": 37,
+                "stars": 0
+              },
+              {
+                "attacker": {
+                  "tag": "#J90RG8U9",
+                  "name": "erick's♣city☆"
+                },
+                "destructionPercent": 13,
+                "stars": 0
+              }
+            ]
           },
           {
             "id": 70000005,
@@ -5027,16 +5085,16 @@
   },
   "memberDonationTotals": {
     "#V29CVGRL": 5663,
-    "#9UVYCR0YL": 29849,
+    "#9UVYCR0YL": 29959,
     "#8LRCPP0YY": 2553,
     "#GRVYJVJYR": 2048,
     "#Q9Y0R8VL8": 773,
     "#2U28UY0UU": 1618,
     "#YGLGVL20": 1117,
-    "#J90RG8U9": 5400,
+    "#J90RG8U9": 5456,
     "#LQ0L8J00Q": 1159,
     "#LV9VJCQU2": 178,
-    "#2CGPYPUVG": 4741,
+    "#2CGPYPUVG": 4800,
     "#89V0C2RPQ": 104,
     "#PLQGC9PRL": 858,
     "#YP22QR2RU": 2377,
@@ -5053,8 +5111,8 @@
     "#P09R9JYQG": 42,
     "#2UJ0R0RYC": 89,
     "#G2GVRGG0V": 541,
-    "#LQR90U0YV": 1934,
-    "#QP0QPGJJY": 1379,
+    "#LQR90U0YV": 1971,
+    "#QP0QPGJJY": 1400,
     "#L989CUGPU": 328,
     "#YU98PCYJG": 716,
     "#QG82008PV": 115,
@@ -5256,315 +5314,29 @@
   },
   "monthly": {
     "current": {
-      "month": "2026-10",
-      "trackingStarted": "2026-10-15T18:28:29Z",
-      "warStars": {
-        "#V29CVGRL": {
-          "name": "Th3rion",
-          "stars": 47,
-          "attacks": 16
-        },
-        "#9UVYCR0YL": {
-          "name": "MuSKeLBaNaNe",
-          "stars": 44,
-          "attacks": 16
-        },
-        "#LQR90U0YV": {
-          "name": "Karma",
-          "stars": 38,
-          "attacks": 15
-        },
-        "#YL8LYP028": {
-          "name": "oli85",
-          "stars": 11,
-          "attacks": 4
-        },
-        "#YGLGVL20": {
-          "name": "Skyfighter",
-          "stars": 21,
-          "attacks": 8
-        },
-        "#P9PYV2CQR": {
-          "name": "Mr.Flauschball",
-          "stars": 17,
-          "attacks": 9
-        },
-        "#8LRCPP0YY": {
-          "name": "Stryka",
-          "stars": 38,
-          "attacks": 13
-        },
-        "#GRVYJVJYR": {
-          "name": "k1am",
-          "stars": 11,
-          "attacks": 5
-        },
-        "#9QY0P9QJ": {
-          "name": "starlord",
-          "stars": 24,
-          "attacks": 13
-        },
-        "#J90RG8U9": {
-          "name": "erick's♣city☆",
-          "stars": 30,
-          "attacks": 12
-        },
-        "#YP22QR2RU": {
-          "name": "Fieteee",
-          "stars": 30,
-          "attacks": 11
-        },
-        "#QP0QPGJJY": {
-          "name": "rOn",
-          "stars": 9,
-          "attacks": 3
-        },
-        "#PLQGC9PRL": {
-          "name": "Tarkan",
-          "stars": 4,
-          "attacks": 2
-        },
-        "#2U28UY0UU": {
-          "name": "RĂĞÑĂR",
-          "stars": 28,
-          "attacks": 12
-        },
-        "#800YUCUC": {
-          "name": "CAPITAL",
-          "stars": 9,
-          "attacks": 4
-        },
-        "#YU98PCYJG": {
-          "name": "jojo",
-          "stars": 2,
-          "attacks": 1
-        },
-        "#LJ29RUJ": {
-          "name": "Marlboro",
-          "stars": 4,
-          "attacks": 2
-        },
-        "#LQ0L8J00Q": {
-          "name": "King of Clash",
-          "stars": 5,
-          "attacks": 3
-        },
-        "#L989CUGPU": {
-          "name": "QreiToPlay",
-          "stars": 2,
-          "attacks": 1
-        },
-        "#22U2V90U8": {
-          "name": "oooo",
-          "stars": 18,
-          "attacks": 6
-        },
-        "#Q9Y0R8VL8": {
-          "name": "Friesdorf",
-          "stars": 6,
-          "attacks": 2
-        },
-        "#2CGPYPUVG": {
-          "name": "Dracan",
-          "stars": 6,
-          "attacks": 2
-        },
-        "#82PR8LLCU": {
-          "name": "alex.v",
-          "stars": 10,
-          "attacks": 4
-        },
-        "#9Q9LY82PP": {
-          "name": "Sneak Eyes",
-          "stars": 3,
-          "attacks": 2
-        },
-        "#89V0C2RPQ": {
-          "name": "Niklas",
-          "stars": 4,
-          "attacks": 2
-        }
-      },
+      "month": "2026-11",
+      "trackingStarted": "2026-11-01T03:41:29Z",
+      "warStars": {},
       "donations": {
         "#9UVYCR0YL": {
           "name": "MuSKeLBaNaNe",
-          "donations": 19041
-        },
-        "#V29CVGRL": {
-          "name": "Th3rion",
-          "donations": 3826
+          "donations": 110
         },
         "#J90RG8U9": {
           "name": "erick's♣city☆",
-          "donations": 2856
-        },
-        "#YGLGVL20": {
-          "name": "Skyfighter",
-          "donations": 641
-        },
-        "#LQ0L8J00Q": {
-          "name": "King of Clash",
-          "donations": 882
+          "donations": 56
         },
         "#2CGPYPUVG": {
           "name": "Dracan",
-          "donations": 2685
-        },
-        "#PLQGC9PRL": {
-          "name": "Tarkan",
-          "donations": 242
-        },
-        "#YGL2CPY8": {
-          "name": "Kriegsaxt",
-          "donations": 217
-        },
-        "#GRVYJVJYR": {
-          "name": "k1am",
-          "donations": 785
-        },
-        "#LV9VJCQU2": {
-          "name": "Posch",
-          "donations": 9
-        },
-        "#YP22QR2RU": {
-          "name": "Fieteee",
-          "donations": 1021
-        },
-        "#9Q9LY82PP": {
-          "name": "Sneak Eyes",
-          "donations": 188
-        },
-        "#GCJRGRQ2P": {
-          "name": "Luis",
-          "donations": 4
+          "donations": 59
         },
         "#LQR90U0YV": {
           "name": "Karma",
-          "donations": 958
-        },
-        "#L989CUGPU": {
-          "name": "QreiToPlay",
-          "donations": 185
-        },
-        "#GQPQ29Q2L": {
-          "name": "KingKano",
-          "donations": 71
-        },
-        "#92JRV200": {
-          "name": "Rotweinpirat",
-          "donations": 2204
-        },
-        "#Q0RY2CCPV": {
-          "name": "Sebi",
-          "donations": 298
-        },
-        "#GPG2P2Q0L": {
-          "name": "Kevin",
-          "donations": 40
-        },
-        "#LJ29RUJ": {
-          "name": "Marlboro",
-          "donations": 834
-        },
-        "#2U28UY0UU": {
-          "name": "RĂĞÑĂR",
-          "donations": 1115
-        },
-        "#LU9RRYRJ0": {
-          "name": "Ritschy",
-          "donations": 701
-        },
-        "#8LRCPP0YY": {
-          "name": "Stryka",
-          "donations": 1611
-        },
-        "#YL8LYP028": {
-          "name": "oli85",
-          "donations": 244
-        },
-        "#QG82008PV": {
-          "name": "LUCA_NRNF",
-          "donations": 53
-        },
-        "#G2GVRGG0V": {
-          "name": "Pfeil",
-          "donations": 381
+          "donations": 37
         },
         "#QP0QPGJJY": {
           "name": "rOn",
-          "donations": 1198
-        },
-        "#P09R9JYQG": {
-          "name": "Clash Gamer",
-          "donations": 1
-        },
-        "#CYVVR9YL": {
-          "name": "TheRealOne",
-          "donations": 81
-        },
-        "#Q9Y0R8VL8": {
-          "name": "Friesdorf",
-          "donations": 626
-        },
-        "#9QY0P9QJ": {
-          "name": "starlord",
-          "donations": 617
-        },
-        "#P9PYV2CQR": {
-          "name": "Mr.Flauschball",
-          "donations": 793
-        },
-        "#800YUCUC": {
-          "name": "CAPITAL",
-          "donations": 98
-        },
-        "#YUPC8LLRR": {
-          "name": "Miss Romanoff",
-          "donations": 5
-        },
-        "#22U2V90U8": {
-          "name": "oooo",
-          "donations": 3054
-        },
-        "#YU98PCYJG": {
-          "name": "jojo",
-          "donations": 261
-        },
-        "#LU0P2080P": {
-          "name": "colinFcb",
-          "donations": 34
-        },
-        "#LVCCVYCQL": {
-          "name": "badbunny",
-          "donations": 1
-        },
-        "#82PR8LLCU": {
-          "name": "alex.v",
-          "donations": 321
-        },
-        "#YUYCVRYLJ": {
-          "name": "Brezelchan",
-          "donations": 94
-        },
-        "#C29PV00J": {
-          "name": "<+>Matei<+>",
-          "donations": 51
-        },
-        "#89V0C2RPQ": {
-          "name": "Niklas",
-          "donations": 104
-        },
-        "#2UJ0R0RYC": {
-          "name": "LB⚡️Phil",
-          "donations": 89
-        },
-        "#29PQCU2QV": {
-          "name": "lole05",
-          "donations": 63
-        },
-        "#LYJCLVCY9": {
-          "name": "hjk",
-          "donations": 117
+          "donations": 21
         }
       }
     },
