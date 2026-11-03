@@ -30,11 +30,11 @@ layout: default
         <p class="eyebrow">Auf einen Blick</p>
         <h2 id="stats-heading">Clan-Statistiken</h2>
       </div>
-      <p class="stats-updated">Zuletzt erfolgreich aktualisiert: <span><!--STAT_UPDATED-->03.11.2026 13:24 UTC<!--/STAT_UPDATED--></span></p>
+      <p class="stats-updated">Zuletzt erfolgreich aktualisiert: <span><!--STAT_UPDATED-->03.11.2026 22:45 UTC<!--/STAT_UPDATED--></span></p>
     </div>
     <dl class="stats-grid">
       <div class="stat stat--gold"><dt>Clan-Level</dt><dd><!--STAT_LEVEL-->Level 19<!--/STAT_LEVEL--></dd></div>
-      <div class="stat stat--red"><dt>Mitglieder</dt><dd><!--STAT_MEMBERS-->46/50<!--/STAT_MEMBERS--></dd></div>
+      <div class="stat stat--red"><dt>Mitglieder</dt><dd><!--STAT_MEMBERS-->49/50<!--/STAT_MEMBERS--></dd></div>
       <div class="stat stat--blue"><dt>Trophäen</dt><dd><!--STAT_TROPHIES-->102,500 🏆<!--/STAT_TROPHIES--></dd></div>
       <div class="stat stat--green"><dt>CK-Siege</dt><dd><!--STAT_WINS-->165 Siege<!--/STAT_WINS--></dd></div>
     </dl>
