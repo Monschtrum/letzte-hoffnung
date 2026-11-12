@@ -1,5 +1,5 @@
 {
-  "updatedAt": "11.11.2026 23:55 UTC",
+  "updatedAt": "12.11.2026 05:15 UTC",
   "clan": {
     "level": 19,
     "members": 46,
@@ -138,7 +138,7 @@
       },
       "trophies": 652,
       "builderBaseTrophies": 4639,
-      "clanRank": 5,
+      "clanRank": 6,
       "previousClanRank": 5,
       "donations": 2568,
       "donationsReceived": 674,
@@ -296,10 +296,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
         }
       },
-      "trophies": 93,
+      "trophies": 116,
       "builderBaseTrophies": 3668,
-      "clanRank": 26,
-      "previousClanRank": 26,
+      "clanRank": 25,
+      "previousClanRank": 27,
       "donations": 1398,
       "donationsReceived": 2274,
       "playerHouse": {
@@ -385,7 +385,7 @@
       "trophies": 204,
       "builderBaseTrophies": 4032,
       "clanRank": 24,
-      "previousClanRank": 25,
+      "previousClanRank": 29,
       "donations": 1367,
       "donationsReceived": 0,
       "playerHouse": {
@@ -648,9 +648,9 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/qVORiRguZ-xMq8L0g7rE1-rZuiA-lKlI8VKuMndRy4w.png"
         }
       },
-      "trophies": 626,
+      "trophies": 653,
       "builderBaseTrophies": 3749,
-      "clanRank": 6,
+      "clanRank": 5,
       "previousClanRank": 6,
       "donations": 955,
       "donationsReceived": 2913,
@@ -755,10 +755,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
         }
       },
-      "trophies": 210,
-      "builderBaseTrophies": 4802,
+      "trophies": 226,
+      "builderBaseTrophies": 4800,
       "clanRank": 23,
-      "previousClanRank": 29,
+      "previousClanRank": 23,
       "donations": 795,
       "donationsReceived": 961,
       "playerHouse": {
@@ -914,10 +914,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 57,
+      "trophies": 73,
       "builderBaseTrophies": 3720,
       "clanRank": 11,
-      "previousClanRank": 10,
+      "previousClanRank": 11,
       "donations": 513,
       "donationsReceived": 3114,
       "playerHouse": {
@@ -1108,6 +1108,59 @@
       }
     },
     {
+      "tag": "#20LR8RQ9",
+      "name": "Jonas 0019",
+      "role": "member",
+      "townHallLevel": 18,
+      "expLevel": 213,
+      "league": {
+        "id": 29000000,
+        "name": "Unranked",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
+        }
+      },
+      "leagueTier": {
+        "id": 105000027,
+        "name": "Titan League 27",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leaguetiers/125/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png",
+          "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
+        }
+      },
+      "trophies": 317,
+      "builderBaseTrophies": 4140,
+      "clanRank": 22,
+      "previousClanRank": 22,
+      "donations": 275,
+      "donationsReceived": 118,
+      "playerHouse": {
+        "elements": [
+          {
+            "type": "ground",
+            "id": 82000002
+          },
+          {
+            "type": "walls",
+            "id": 82000049
+          },
+          {
+            "type": "roof",
+            "id": 82000014
+          },
+          {
+            "type": "decoration",
+            "id": 82000058
+          }
+        ]
+      },
+      "builderBaseLeague": {
+        "id": 44000030,
+        "name": "Titanium League II"
+      }
+    },
+    {
       "tag": "#8VU209QPY",
       "name": "DNX",
       "role": "member",
@@ -1267,59 +1320,6 @@
       }
     },
     {
-      "tag": "#20LR8RQ9",
-      "name": "Jonas 0019",
-      "role": "member",
-      "townHallLevel": 18,
-      "expLevel": 213,
-      "league": {
-        "id": 29000000,
-        "name": "Unranked",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leagues/72/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png",
-          "tiny": "https://api-assets.clashofclans.com/leagues/36/e--YMyIexEQQhE4imLoJcwhYn6Uy8KqlgyY3_kFV6t4.png"
-        }
-      },
-      "leagueTier": {
-        "id": 105000027,
-        "name": "Titan League 27",
-        "iconUrls": {
-          "small": "https://api-assets.clashofclans.com/leaguetiers/125/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png",
-          "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
-        }
-      },
-      "trophies": 281,
-      "builderBaseTrophies": 4120,
-      "clanRank": 22,
-      "previousClanRank": 30,
-      "donations": 220,
-      "donationsReceived": 118,
-      "playerHouse": {
-        "elements": [
-          {
-            "type": "ground",
-            "id": 82000002
-          },
-          {
-            "type": "walls",
-            "id": 82000049
-          },
-          {
-            "type": "roof",
-            "id": 82000014
-          },
-          {
-            "type": "decoration",
-            "id": 82000058
-          }
-        ]
-      },
-      "builderBaseLeague": {
-        "id": 44000030,
-        "name": "Titanium League II"
-      }
-    },
-    {
       "tag": "#90YCQQ8GQ",
       "name": "Camo",
       "role": "member",
@@ -1394,10 +1394,10 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/1AhObOl55grQIWnGmn1J9qMWq5pmRA3aBObfYkQEjko.png"
         }
       },
-      "trophies": 73,
+      "trophies": 102,
       "builderBaseTrophies": 2873,
-      "clanRank": 28,
-      "previousClanRank": 23,
+      "clanRank": 27,
+      "previousClanRank": 26,
       "donations": 172,
       "donationsReceived": 534,
       "playerHouse": {
@@ -1589,7 +1589,7 @@
       "trophies": 186,
       "builderBaseTrophies": 4330,
       "clanRank": 9,
-      "previousClanRank": 11,
+      "previousClanRank": 10,
       "donations": 138,
       "donationsReceived": 1673,
       "playerHouse": {
@@ -1889,7 +1889,7 @@
       "clanRank": 40,
       "previousClanRank": 42,
       "donations": 55,
-      "donationsReceived": 1061,
+      "donationsReceived": 1116,
       "playerHouse": {
         "elements": [
           {
@@ -2099,8 +2099,8 @@
       },
       "trophies": 109,
       "builderBaseTrophies": 2824,
-      "clanRank": 25,
-      "previousClanRank": 27,
+      "clanRank": 26,
+      "previousClanRank": 25,
       "donations": 0,
       "donationsReceived": 0,
       "playerHouse": {
@@ -2152,8 +2152,8 @@
       },
       "trophies": 89,
       "builderBaseTrophies": 3660,
-      "clanRank": 27,
-      "previousClanRank": 24,
+      "clanRank": 28,
+      "previousClanRank": 28,
       "donations": 0,
       "donationsReceived": 0,
       "playerHouse": {
@@ -2206,7 +2206,7 @@
       "trophies": 35,
       "builderBaseTrophies": 3174,
       "clanRank": 29,
-      "previousClanRank": 28,
+      "previousClanRank": 30,
       "donations": 0,
       "donationsReceived": 174,
       "playerHouse": {
@@ -7311,8 +7311,8 @@
     "#9UVYCR0YL": 9344,
     "#GRVYJVJYR": 2507,
     "#8LRCPP0YY": 1129,
-    "#Q9Y0R8VL8": 2568,
     "#2U28UY0UU": 955,
+    "#Q9Y0R8VL8": 2568,
     "#J90RG8U9": 2363,
     "#PLQGC9PRL": 94,
     "#LQ0L8J00Q": 138,
@@ -7328,13 +7328,13 @@
     "#YP22QR2RU": 526,
     "#LQR90U0YV": 4596,
     "#82PR8LLCU": 323,
-    "#20LR8RQ9": 220,
+    "#20LR8RQ9": 275,
     "#QP0QPGJJY": 795,
     "#2UJ0R0RYC": 1367,
-    "#YUYCVRYLJ": 0,
     "#29PQCU2QV": 1398,
-    "#9UQ8Q2VUU": 0,
+    "#YUYCVRYLJ": 0,
     "#G0RLPJU2Y": 172,
+    "#9UQ8Q2VUU": 0,
     "#L989CUGPU": 0,
     "#QUPR9UVJP": 0,
     "#C29PV00J": 102,
@@ -7955,7 +7955,7 @@
         },
         "#20LR8RQ9": {
           "name": "Jonas 0019",
-          "donations": 220
+          "donations": 275
         },
         "#209UVULVC": {
           "name": "Efe",
