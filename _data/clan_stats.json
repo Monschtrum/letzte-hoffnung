@@ -1,5 +1,5 @@
 {
-  "updatedAt": "22.11.2026 23:03 UTC",
+  "updatedAt": "23.11.2026 05:04 UTC",
   "clan": {
     "level": 19,
     "members": 49,
@@ -136,7 +136,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/iX8uNhG6jBcQATWFS8a0gtidGy9O1PRYtXZZMTtUK3U.png"
         }
       },
-      "trophies": 662,
+      "trophies": 673,
       "builderBaseTrophies": 4522,
       "clanRank": 5,
       "previousClanRank": 5,
@@ -703,7 +703,7 @@
         }
       },
       "trophies": 551,
-      "builderBaseTrophies": 4726,
+      "builderBaseTrophies": 4722,
       "clanRank": 24,
       "previousClanRank": 21,
       "donations": 1307,
@@ -808,7 +808,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 194,
+      "trophies": 203,
       "builderBaseTrophies": 3786,
       "clanRank": 15,
       "previousClanRank": 14,
@@ -861,7 +861,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 595,
+      "trophies": 604,
       "builderBaseTrophies": 3707,
       "clanRank": 9,
       "previousClanRank": 9,
@@ -967,7 +967,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/g7m9aF8YoYj9b0olPsyT4eUIxyYEmkqr53wYxWmzpE4.png"
         }
       },
-      "trophies": 525,
+      "trophies": 550,
       "builderBaseTrophies": 4330,
       "clanRank": 10,
       "previousClanRank": 10,
@@ -1075,7 +1075,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/yIfqSgrhiYRcuMbAPCoeCj1FTmfylCLxnrAljEZc8K0.png"
         }
       },
-      "trophies": 557,
+      "trophies": 585,
       "builderBaseTrophies": 3244,
       "clanRank": 32,
       "previousClanRank": 29,
@@ -1394,7 +1394,7 @@
           "large": "https://api-assets.clashofclans.com/leaguetiers/326/0eDMQmsiZ0gs8xzViGfVETnYjwzgELTKwYhH3izevT4.png"
         }
       },
-      "trophies": 187,
+      "trophies": 207,
       "builderBaseTrophies": 4497,
       "clanRank": 42,
       "previousClanRank": 39,
@@ -3235,10 +3235,10 @@
     "state": "ongoing",
     "startTime": "20261120T070000.000Z",
     "endTime": "20261123T070000.000Z",
-    "capitalTotalLoot": 706046,
+    "capitalTotalLoot": 713552,
     "raidsCompleted": 8,
-    "totalAttacks": 170,
-    "enemyDistrictsDestroyed": 65,
+    "totalAttacks": 172,
+    "enemyDistrictsDestroyed": 66,
     "offensiveReward": 0,
     "defensiveReward": 0,
     "members": [
@@ -3333,10 +3333,10 @@
       {
         "tag": "#2CGPYPUVG",
         "name": "Dracan",
-        "attacks": 4,
+        "attacks": 6,
         "attackLimit": 5,
         "bonusAttackLimit": 1,
-        "capitalResourcesLooted": 21600
+        "capitalResourcesLooted": 29106
       },
       {
         "tag": "#LV2V2RJQ",
@@ -5603,9 +5603,9 @@
             "medium": "https://api-assets.clashofclans.com/badges/200/qFFnkAnN9Ph9Aev9tFkHP0qrYcvPM8qEU4yxiAvgulQ.png"
           }
         },
-        "attackCount": 9,
+        "attackCount": 11,
         "districtCount": 9,
-        "districtsDestroyed": 2,
+        "districtsDestroyed": 3,
         "districts": [
           {
             "id": 70000000,
@@ -5647,10 +5647,20 @@
             "id": 70000004,
             "name": "Builder's Workshop",
             "districtHallLevel": 5,
-            "destructionPercent": 0,
+            "destructionPercent": 10,
             "stars": 0,
-            "attackCount": 0,
-            "totalLooted": 0
+            "attackCount": 1,
+            "totalLooted": 1210,
+            "attacks": [
+              {
+                "attacker": {
+                  "tag": "#2CGPYPUVG",
+                  "name": "Dracan"
+                },
+                "destructionPercent": 10,
+                "stars": 1
+              }
+            ]
           },
           {
             "id": 70000005,
@@ -5700,11 +5710,19 @@
             "id": 70000007,
             "name": "Skeleton Park",
             "districtHallLevel": 4,
-            "destructionPercent": 57,
+            "destructionPercent": 100,
             "stars": 0,
-            "attackCount": 3,
-            "totalLooted": 5430,
+            "attackCount": 4,
+            "totalLooted": 11726,
             "attacks": [
+              {
+                "attacker": {
+                  "tag": "#2CGPYPUVG",
+                  "name": "Dracan"
+                },
+                "destructionPercent": 100,
+                "stars": 3
+              },
               {
                 "attacker": {
                   "tag": "#LU0P2080P",
